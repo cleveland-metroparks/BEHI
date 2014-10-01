@@ -15845,10 +15845,14 @@ L.control.layers(baseMaps, overlayMaps).addTo(map);
 // Zoom to lat/long on link click
 document.getElementById('navigation').onclick = function(e) {
     var pos = e.target.getAttribute('data-position');
+	var zoom = e.target.getAttribute('zoom-level')
     if (pos) {
         var loc = pos.split(',');
-        map.setView(loc, 16);
-    }
+		}
+	if (zoom) {
+		var zlvl = zoom.split(',');
+		}
+    map.setView(loc, zlvl);
 }
 
 
