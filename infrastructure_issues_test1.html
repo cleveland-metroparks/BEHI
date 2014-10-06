@@ -3,8 +3,8 @@
 <head>
 <meta charset=utf-8 />
 <title></title>
-	<script src='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.js'></script>
-	<link href='http://api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.css' rel='stylesheet' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.2/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.2/mapbox.css' rel='stylesheet' />
 	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
   <!--[if lte IE 8]>
     <link href='//api.tiles.mapbox.com/mapbox.js/v1.3.1/mapbox.ie.css' rel='stylesheet'>
@@ -52,10 +52,20 @@
 
 <script type='text/javascript'>
 
-var map = L.mapbox.map('map', 'examples.map-9ijuk24y');
 
-var geoJson1 = [{
-"type": "Feature", "id": 1, "properties": { "Date": 41499, "location": "Acacia", "uid": "a1", "Latitude": 41.50164, "Longitude": -81.491276999999897, "info": "Two metal pipes running perpendicular to flow. Perched 2.5 feet above water surface. Coming from maintenance shed on right bank approximately 50 feet from stream.  Pipes rusted though.", "marker-color": "#000", "marker-size": "small", "images1": [['images/stream_banks/acacia/G130813-0003.jpg']] }, "geometry": { "type": "Point", "coordinates": [ -81.491276999999897, 41.50164 ] } }
+
+
+var geoJson1 =  {
+ "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+
+{ "type": "Feature", "id": 1, "properties": { "Date": 41499, "location": "Acacia", "uid": "a1", "Latitude": 41.50164, "Longitude": -81.491276999999897, "info": "Two metal pipes running perpendicular to flow. Perched 2.5 feet above water surface. Coming from maintenance shed on right bank approximately 50 feet from stream.  Pipes rusted though.", "marker-color": "#000", "marker-size": "small", "images1": [['images/stream_banks/acacia/G130813-0003.jpg']] }, "geometry": { "type": "Point", "coordinates": [ -81.491276999999897, 41.50164 ] } }
 ,
 { "type": "Feature", "id": 2, "properties": { "Date": 41499, "location": "Acacia", "uid": "a2", "Latitude": 41.501838084770199, "Longitude": -81.4912077483133, "info": "Rusted metal pipe perpendicular to flow. Perched 3 feet above water surface. Attached to banks. Unknown source/purpose.", "marker-color": "#000", "marker-size": "small", "images1": [['images/stream_banks/acacia/G130813-0006.jpg'],['images/stream_banks/acacia/G130813-0007.jpg']] }, "geometry": { "type": "Point", "coordinates": [ -81.4912077483133, 41.501838084770199 ] } }
 ,
@@ -99,7 +109,7 @@ var geoJson1 = [{
 ,
 { "type": "Feature", "id": 22, "properties": { "Date": 41534, "location": "Timberlane", "uid": "t3", "Latitude": 41.278512999999897, "Longitude": -81.754589999999894, "info": "Two culverts 2.5 feet in diameter.  Perched .5 feet above water surface. Flow coming from below culvert. Scour and debris jam on upstream end. Culvert not functioning.", "marker-color": "#000", "marker-size": "small", "images1": [["images/stream_banks/timberlane/sept16/G130917-0032.jpg"],["images/stream_banks/timberlane/sept16/G130917-0033.jpg"]] }, "geometry": { "type": "Point", "coordinates": [ -81.754589999999894, 41.278512999999897 ] } }
 
-];
+]};
 
 
 var infrastructure = map.markerLayer.on('layeradd', function(e) {
@@ -162,6 +172,37 @@ function moveSlide(direction) {
     $newSlide1.addClass('active').show();
     return false;
 }
+
+// Add layers to turn on/off
+// Cleveland Metroparks trails app base layer
+var parks = L.tileLayer('http://maps1.clemetparks.com/tilestache/tilestache.cgi/basemap/{z}/{x}/{y}.jpg', {
+    attribution: 'Map data <a href="http://clevelandmetroparks.com" target="_blank">Cleveland Metroparks</a>, Imagery <a href="http://maps.clevelandmetroparks.com" target="_blank">Cleveland Metroparks</a> &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	minZoom: 10,
+    maxZoom: 18
+}).addTo(map);
+
+
+// Mapbox satellite base layer
+var imagery = L.tileLayer('http://a.tiles.mapbox.com/v3/cminvasiveplants.map-7cfqm6fy/{z}/{x}/{y}.jpg', {
+    attribution: 'Map data <a href="http://clevelandmetroparks.com" target="_blank">Cleveland Metroparks</a>, Imagery &copy <a href="http://mapbox.com" target="_blank">MapBox</a>',
+	minZoom: 10,	
+    maxZoom: 18
+});
+
+
+// Adds the base layers to the layer controller
+// format=     "Layer label in the controller" : variable name given above,
+var baseMaps = {
+	"Cleveland Metroparks":parks,
+	"Satellite":imagery
+};
+
+// Add the overlay layers to the layer controller
+// format=     "Layer label in the controller" : variable name given above,
+var overlayMaps = null
+
+// Adds layer controller
+L.control.layers(baseMaps, overlayMaps).addTo(map);
 
 map.setView([41.3902, -81.6682], 11);
 </script>

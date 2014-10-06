@@ -129,12 +129,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Banks Assessed');
 					data.addRows([
-						['Euclid Creek (Acacia)', 12264.26, 20],
-						['Hemlock Creek', 10438.18, 44],
-						["Johnson's Creek", 4763.83, 24],
-						['Mirror Creek', 11312.53, 13],
-						['Strawberry Creek', 21494.23, 58],
-						['Total', 21494.23, 58]
+						['Euclid Creek (Acacia)', 7358.27, 57],
+						['Hemlock Creek', 6062.84, 26],
+						["Johnson's Creek", 13111.19, 88],
+						['Mirror Creek', 2336.01, 34],
+						['Strawberry Creek', 9046.75, 81],
+						['Total', 37915.06, 286]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_totals'));
@@ -158,23 +158,23 @@
 
 								data.addRows(5);
 								data.setValue(0, 0, 'Euclid Creek');
-								data.setValue(0, 1, 12264.52);
+								data.setValue(0, 1, 7358.27);
 								data.setValue(0, 2, 0);
 
 								data.setValue(1, 0, 'Hemlock Creek');
-								data.setValue(1, 1, 10438.18);
+								data.setValue(1, 1, 6062.84);
 								data.setValue(1, 2, 0);
 
 								data.setValue(2, 0, "Johnson's Creek");
-								data.setValue(2, 1, 4763.83);
+								data.setValue(2, 1, 13111.19);
 								data.setValue(2, 2, 0);
 
 								data.setValue(3, 0, 'Mirror Creek');
-								data.setValue(3, 1, 11312.53);
+								data.setValue(3, 1, 2336.01);
 								data.setValue(3, 2, 0);
 
 								data.setValue(4, 0, 'Strawberry Creek');
-								data.setValue(4, 1, 21494.23);
+								data.setValue(4, 1, 9046.75);
 								data.setValue(4, 2, 0);
 
 								/*data.setValue(5, 0, 'Snowville');
@@ -212,12 +212,12 @@
       				function drawChart() {
         			var data = google.visualization.arrayToDataTable([
           				['Rank', 'Length'],
-          				['Extreme', 1458.79],
-          				['Very High', 3386.37],
-          				['High', 13270.79],
-          				['Moderate', 10732.12],
-          				['Low', 2140.04],
-          				['Rank Not Needed', 127435.85],
+          				['Extreme', 568.6],
+          				['Very High', 1651.49],
+          				['High', 8110.32],
+          				['Moderate', 5920.35],
+          				['Low', 1101.25],
+          				['Rank Not Needed', 20563.05],
         			]);
 
         			var options = {
@@ -310,7 +310,7 @@
 	<div id="content_4" class="content">
 		<h1>Euclid Creek</h1>
 		<table class="total_table">
-			<tr><td>Total Length Assessed</td><td class="length_column">10,438.18 ft</td></tr>
+			<tr><td>Total Length Assessed</td><td class="length_column">7,358.3 ft</td></tr>
 		</table>
 		
 		<div id="table_deerlick"></div>
@@ -324,12 +324,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 151.68, {v: 1.5, f: '1.5%'}],
-						['Very High', 173.12, {v: 1.7, f: '1.7%'}],
-						['High', 1189.55, {v: 11.4, f: '11.4%'}],
-						['Moderate', 463.55, {v: 4.4, f: '4.4%'}],
-						['Low', 308.62, {v: 3.0, f: '3.0%'}],
-						['Rank Not Needed', 8151.66, {v: 78.1, f: '78.1%'}]
+						['Extreme', 0, {v: 0, f: '0.0%'}],
+						['Very High', 133.61, {v: 1.8, f: '1.8%'}],
+						['High', 2031.07, {v: 27.6, f: '27.6%'}],
+						['Moderate', 1898.64, {v: 25.8, f: '25.8%'}],
+						['Low', 0, {v: 0, f: '0.0%'}],
+						['Rank Not Needed', 3294.95, {v: 44.8, f: '44.8%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_deerlick'));
@@ -345,12 +345,12 @@
       				function drawChart() {
         				var data = google.visualization.arrayToDataTable([
           					['Rank', 'Length'],
-          					['Extreme', 151.68],
-          					['Very High', 173.12],
-          					['High', 1189.55],
-          					['Moderate', 463.55],
-          					['Low', 308.62],
-          					['Rank Not Needed', 8151.66],
+          					['Extreme', 0],
+          					['Very High', 133.61],
+          					['High', 2031.07],
+          					['Moderate', 1898.64],
+          					['Low', 0],
+          					['Rank Not Needed', 3294.95],
         				]);
 
         			var options = {
@@ -374,7 +374,7 @@
 	<div id="content_5" class="content">
 		<h1>Hemlock Creek</h1>
 		<table class="total_table">
-			<tr><td>Total Length Assessed</td><td class="length_column">4,763.83 ft</td></tr>
+			<tr><td>Total Length Assessed</td><td class="length_column">6,062.84 ft</td></tr>
 		</table>
 		
 		<div id="table_acacia"></div>
@@ -388,12 +388,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 0, {v: 0.0, f: '0.0%'}],
-						['Very High', 0, {v: 0.0, f: '0.0%'}],
-						['High', 447.57, {v: 9.4, f: '9.4%'}],
-						['Moderate', 1354.77, {v: 28.4, f: '28.4%'}],
-						['Low', 0, {v: 0.0, f: '0.0%'}],
-						['Rank Not Needed', 2961.49, {v: 62.2, f: '62.2%'}]
+						['Extreme', 262.62, {v: 4.3, f: '4.3%'}],
+						['Very High', 345.01, {v: 5.7, f: '5.7%'}],
+						['High', 1053.19, {v: 17.4, f: '17.4%'}],
+						['Moderate', 683.33, {v: 11.3, f: '11.3%'}],
+						['Low', 91.89, {v: 1.5, f: '1.5%'}],
+						['Rank Not Needed', 3626.8, {v: 59.8, f: '59.8%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_acacia'));
@@ -409,12 +409,12 @@
       				function drawChart() {
         			var data = google.visualization.arrayToDataTable([
           				['Rank', 'Length'],
-          				['Extreme', 0],
-          				['Very High', 0],
-          				['High', 447.57],
-          				['Moderate', 1354.77],
-          				['Low', 0],
-          				['Rank Not Needed', 4763.83],
+          				['Extreme', 262.62],
+          				['Very High', 345.01],
+          				['High', 1053.19],
+          				['Moderate', 683.33],
+          				['Low', 91.89],
+          				['Rank Not Needed', 3626.8],
         			]);
 
         			var options = {
@@ -438,7 +438,7 @@
 	<div id="content_6" class="content">
 		<h1>Johnson's Creek</h1>
 				<table class="total_table">
-			<tr><td>Total Length Assessed</td><td class="length_column">11,312.53 ft</td></tr>
+			<tr><td>Total Length Assessed</td><td class="length_column">13,111.19 ft</td></tr>
 		</table>
 		
 		<div id="table_millcreek"></div>
@@ -452,12 +452,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 151.84, {v: 1.3, f: '1.3%'}],
-						['Very High', 144.82, {v: 1.3, f: '1.3%'}],
-						['High', 531.24, {v: 4.7, f: '4.7%'}],
-						['Moderate', 338.28, {v: 3.0, f: '3.0%'}],
-						['Low', 172.69, {v: 1.5, f: '1.5%'}],
-						['Rank Not Needed', 9974.02, {v: 88.2, f: '88.2%'}]
+						['Extreme', 186.29, {v: 1.4, f: '1.4%'}],
+						['Very High', 440.89, {v: 3.4, f: '3.4%'}],
+						['High', 2530.73, {v: 19.3, f: '19.3%'}],
+						['Moderate', 1346.16, {v: 10.3, f: '10.3%'}],
+						['Low', 690.67, {v: 5.3, f: '5.3%'}],
+						['Rank Not Needed', 7916.45, {v: 60.4, f: '60.4%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_millcreek'));
@@ -473,12 +473,12 @@
       				function drawChart() {
         			var data = google.visualization.arrayToDataTable([
           				['Rank', 'Length'],
-          				['Extreme', 151.48],
-          				['Very High', 144.82],
-          				['High', 531.24],
-          				['Moderate', 388.28],
-          				['Low', 172.69],
-          				['Rank Not Needed', 9974.02],
+          				['Extreme', 186.29],
+          				['Very High', 440.89],
+          				['High', 2530.73],
+          				['Moderate', 1346.16],
+          				['Low', 690.67],
+          				['Rank Not Needed', 7916.45],
        				 ]);
 
         		var options = {
@@ -502,7 +502,7 @@
 	<div id="content_7" class="content">
 		<h1>Mirror Creek</h1>
 		<table class="total_table">
-			<tr><td>Total Length Assessed</td><td class="length_column">21,494.23 ft</td></tr>
+			<tr><td>Total Length Assessed</td><td class="length_column">2336.01 ft</td></tr>
 		</table>
 		
 		<div id="table_sagamore"></div>
@@ -516,12 +516,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 226.57, {v: 1.1, f: '1.1%'}],
-						['Very High', 511.66, {v: 2.4, f: '2.4%'}],
-						['High', 2191.58, {v: 10.2, f: '10.2%'}],
-						['Moderate', 1147.84, {v: 5.3, f: '5.3%'}],
-						['Low', 402.41, {v: 1.9, f: '1.9%'}],
-						['Rank Not Needed', 17014.17, {v: 79.2, f: '79.2%'}]
+						['Extreme', 21.21, {v: 0.9, f: '0.9%'}],
+						['Very High', 19.73, {v: 0.8, f: '0.8%'}],
+						['High', 484.29, {v: 20.7, f: '20.7%'}],
+						['Moderate', 397.57, {v: 17, f: '17%'}],
+						['Low', 130.2, {v: 5.6, f: '5.6%'}],
+						['Rank Not Needed', 1283.01, {v: 54.9, f: '54.9%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_sagamore'));
@@ -537,12 +537,12 @@
       				function drawChart() {
         				var data = google.visualization.arrayToDataTable([
           					['Rank', 'Length'],
-          					['Extreme', 226.57],
-          					['Very High', 511.66],
-          					['High', 2191.58],
-          					['Moderate', 1147.84],
-          					['Low', 402.41],
-          					['Rank Not Needed', 17014.17],
+          					['Extreme', 21.21],
+          					['Very High', 19.73],
+          					['High', 484.29],
+          					['Moderate', 397.57],
+          					['Low', 130.2],
+          					['Rank Not Needed', 1283.01],
         				]);
 
         			var options = {
@@ -566,7 +566,7 @@
 	<div id="content_8" class="content">
 		<h1>Strawberry Creek</h1>
 		<table class="total_table">
-			<tr><td>Total Length Assessed</td><td class="length_column">21,494.23 ft</td></tr>
+			<tr><td>Total Length Assessed</td><td class="length_column">9,046.75 ft</td></tr>
 		</table>
 		
 		<div id="table_snowville"></div>
@@ -580,12 +580,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 42.16, {v: 0.2, f: '0.2%'}],
-						['Very High', 205.45, {v: 1.0, f: '1.0%'}],
-						['High', 1119.13, {v: 5.6, f: '5.6%'}],
-						['Moderate', 1963.98, {v: 9.8, f: '9.8%'}],
-						['Low', 677.95, {v: 3.4, f: '3.4%'}],
-						['Rank Not Needed', 15968.80, {v: 79.9, f: '79.9%'}]
+						['Extreme', 98.48, {v: 1.1, f: '1.1%'}],
+						['Very High', 712.25, {v: 7.9, f: '7.9%'}],
+						['High', 2011.04, {v: 22.2, f: '22.2%'}],
+						['Moderate', 1594.65, {v: 17.6, f: '17.6%'}],
+						['Low', 188.49, {v: 2.1, f: '2.1%'}],
+						['Rank Not Needed', 4444.84, {v: 49., f: '49.1%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_snowville'));
@@ -601,12 +601,12 @@
       				function drawChart() {
         				var data = google.visualization.arrayToDataTable([
           					['Rank', 'Length'],
-          					['Extreme', 42.16],
-          					['Very High', 205.45],
-          					['High', 1119.13],
-          					['Moderate', 1963.98],
-          					['Low', 677.95],
-          					['Rank Not Needed', 15968.80],
+          					['Extreme', 98.48],
+          					['Very High', 712.25],
+          					['High', 2011.04],
+          					['Moderate', 1594.65],
+          					['Low', 188.49],
+          					['Rank Not Needed', 4441.84],
         				]);
 
         			var options = {
