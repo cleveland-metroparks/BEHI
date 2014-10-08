@@ -20,7 +20,7 @@ var geoJson = {
         "height": "4.5",
         "length": 18,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 35,
@@ -56,7 +56,7 @@ var geoJson = {
         "height": "<10",
         "length": 50,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 10,
@@ -164,7 +164,7 @@ var geoJson = {
         "height": "5.5",
         "length": 40,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 40,
@@ -200,7 +200,7 @@ var geoJson = {
         "height": "6",
         "length": 115,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 35,
         "root_score": 5.25,
         "dens_val": 15,
@@ -236,7 +236,7 @@ var geoJson = {
         "height": "1",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 80,
@@ -272,7 +272,7 @@ var geoJson = {
         "height": "<10",
         "length": 30,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 15,
@@ -308,7 +308,7 @@ var geoJson = {
         "height": "1.5",
         "length": 15,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 30,
@@ -344,7 +344,7 @@ var geoJson = {
         "height": "1.5",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 85,
@@ -380,7 +380,7 @@ var geoJson = {
         "height": "7",
         "length": 35,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 45,
@@ -452,7 +452,7 @@ var geoJson = {
         "height": "8",
         "length": 30,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 10,
         "root_score": 8.5,
         "dens_val": 5,
@@ -488,7 +488,7 @@ var geoJson = {
         "height": "7",
         "length": 50,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 30,
@@ -524,7 +524,7 @@ var geoJson = {
         "height": "4.5",
         "length": 45,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -560,7 +560,7 @@ var geoJson = {
         "height": "6",
         "length": 55,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 10,
@@ -632,7 +632,7 @@ var geoJson = {
         "height": "35",
         "length": 0.5,
         "mat_score": 7,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 15,
@@ -668,7 +668,7 @@ var geoJson = {
         "height": "3",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 40,
@@ -704,7 +704,7 @@ var geoJson = {
         "height": "5",
         "length": 25,
         "mat_score": -5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 10,
@@ -740,7 +740,7 @@ var geoJson = {
         "height": "10",
         "length": 80,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 30,
@@ -848,7 +848,7 @@ var geoJson = {
         "height": "5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 45,
@@ -884,7 +884,7 @@ var geoJson = {
         "height": "3.5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 40,
@@ -920,7 +920,7 @@ var geoJson = {
         "height": "5",
         "length": 60,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 5,
@@ -956,7 +956,7 @@ var geoJson = {
         "height": "15",
         "length": 60,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 20,
@@ -992,7 +992,7 @@ var geoJson = {
         "height": "10",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 25,
@@ -1028,7 +1028,7 @@ var geoJson = {
         "height": "2",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 85,
@@ -1064,7 +1064,7 @@ var geoJson = {
         "height": "15",
         "length": 50,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 40,
@@ -1100,7 +1100,7 @@ var geoJson = {
         "height": "5",
         "length": 60,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 35,
@@ -1136,7 +1136,7 @@ var geoJson = {
         "height": "4",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 20,
@@ -1172,7 +1172,7 @@ var geoJson = {
         "height": "25",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 10,
@@ -1208,7 +1208,7 @@ var geoJson = {
         "height": "30",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 40,
@@ -1244,7 +1244,7 @@ var geoJson = {
         "height": "3",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 75,
@@ -1280,7 +1280,7 @@ var geoJson = {
         "height": "0.5",
         "length": 50,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -1316,7 +1316,7 @@ var geoJson = {
         "height": "3",
         "length": 55,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 50,
@@ -1352,7 +1352,7 @@ var geoJson = {
         "height": "15",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 45,
@@ -1388,7 +1388,7 @@ var geoJson = {
         "height": "4.5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -1424,7 +1424,7 @@ var geoJson = {
         "height": "7",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 40,
@@ -1460,7 +1460,7 @@ var geoJson = {
         "height": "5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 20,
@@ -1496,7 +1496,7 @@ var geoJson = {
         "height": "15",
         "length": 35,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -1568,7 +1568,7 @@ var geoJson = {
         "height": "3.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 90,
@@ -1604,7 +1604,7 @@ var geoJson = {
         "height": "7",
         "length": 70,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 35,
         "root_score": 5.25,
         "dens_val": 25,
@@ -1640,7 +1640,7 @@ var geoJson = {
         "height": "6",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 10,
@@ -1712,7 +1712,7 @@ var geoJson = {
         "height": "5",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 67,
@@ -1784,7 +1784,7 @@ var geoJson = {
         "height": "3.5",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 80,
@@ -1820,7 +1820,7 @@ var geoJson = {
         "height": "15-20",
         "length": 100,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -1856,7 +1856,7 @@ var geoJson = {
         "height": "10",
         "length": 70,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 20,
         "root_score": 7,
         "dens_val": 10,
@@ -1892,7 +1892,7 @@ var geoJson = {
         "height": "5",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 15,
         "root_score": 7.75,
         "dens_val": 5,
@@ -1928,7 +1928,7 @@ var geoJson = {
         "height": "7",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 65,
@@ -1964,7 +1964,7 @@ var geoJson = {
         "height": "3.5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 75,
@@ -2000,7 +2000,7 @@ var geoJson = {
         "height": "5",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 60,
@@ -2036,7 +2036,7 @@ var geoJson = {
         "height": "0.5",
         "length": 30,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 15,
@@ -2072,7 +2072,7 @@ var geoJson = {
         "height": "5",
         "length": 35,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 10,
@@ -2108,7 +2108,7 @@ var geoJson = {
         "height": "5",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 15,
@@ -2144,7 +2144,7 @@ var geoJson = {
         "height": "4.5",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 65,
         "root_score": 3.25,
         "dens_val": 15,
@@ -2180,7 +2180,7 @@ var geoJson = {
         "height": "0.5",
         "length": 50,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 15,
@@ -2216,7 +2216,7 @@ var geoJson = {
         "height": "5.5",
         "length": 90,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 15,
@@ -2252,7 +2252,7 @@ var geoJson = {
         "height": "4",
         "length": 160,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 35,
@@ -2288,7 +2288,7 @@ var geoJson = {
         "height": "8",
         "length": 15,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 5,
@@ -2324,7 +2324,7 @@ var geoJson = {
         "height": "5.5",
         "length": 80,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 20,
@@ -2360,7 +2360,7 @@ var geoJson = {
         "height": "3",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 40,
@@ -2396,7 +2396,7 @@ var geoJson = {
         "height": "2.5",
         "length": 65,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 35,
         "root_score": 5.25,
         "dens_val": 10,
@@ -2468,7 +2468,7 @@ var geoJson = {
         "height": "3",
         "length": 70,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 70,
@@ -2540,7 +2540,7 @@ var geoJson = {
         "height": "3.5",
         "length": 15,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 15,
@@ -2576,7 +2576,7 @@ var geoJson = {
         "height": "5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 20,
         "root_score": 7,
         "dens_val": 5,
@@ -2612,7 +2612,7 @@ var geoJson = {
         "height": "3.5",
         "length": 80,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 15,
@@ -2648,7 +2648,7 @@ var geoJson = {
         "height": "4",
         "length": 60,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 25,
@@ -2684,7 +2684,7 @@ var geoJson = {
         "height": "3",
         "length": 60,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 45,
@@ -2756,7 +2756,7 @@ var geoJson = {
         "height": "0.5",
         "length": 70,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 85,
@@ -2828,7 +2828,7 @@ var geoJson = {
         "height": "8.5",
         "length": 100,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 20,
@@ -2864,7 +2864,7 @@ var geoJson = {
         "height": "4.5",
         "length": 50,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 70,
@@ -2900,7 +2900,7 @@ var geoJson = {
         "height": "0.5",
         "length": 45,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 90,
@@ -2936,7 +2936,7 @@ var geoJson = {
         "height": "2.5",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 15,
@@ -2972,7 +2972,7 @@ var geoJson = {
         "height": "2.5",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 35,
         "root_score": 5.25,
         "dens_val": 30,
@@ -3008,7 +3008,7 @@ var geoJson = {
         "height": "3",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 15,
@@ -3044,7 +3044,7 @@ var geoJson = {
         "height": "4.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 10,
@@ -3080,7 +3080,7 @@ var geoJson = {
         "height": "2.5",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 50,
@@ -3116,7 +3116,7 @@ var geoJson = {
         "height": "1.5",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 85,
@@ -3152,7 +3152,7 @@ var geoJson = {
         "height": "3",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 50,
@@ -3188,7 +3188,7 @@ var geoJson = {
         "height": "3",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 40,
@@ -3224,7 +3224,7 @@ var geoJson = {
         "height": "2",
         "length": 20,
         "mat_score": 6,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 20,
         "root_score": 7,
         "dens_val": 15,
@@ -3260,7 +3260,7 @@ var geoJson = {
         "height": "4",
         "length": 15,
         "mat_score": 10,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 0,
         "root_score": 10,
         "dens_val": 0,
@@ -3296,7 +3296,7 @@ var geoJson = {
         "height": "1",
         "length": 60,
         "mat_score": 7,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 10,
@@ -3332,7 +3332,7 @@ var geoJson = {
         "height": "2",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 60,
@@ -3368,7 +3368,7 @@ var geoJson = {
         "height": "1.5",
         "length": 30,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 50,
@@ -3404,7 +3404,7 @@ var geoJson = {
         "height": "5",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 35,
@@ -3440,7 +3440,7 @@ var geoJson = {
         "height": "2",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 40,
@@ -3476,7 +3476,7 @@ var geoJson = {
         "height": "3",
         "length": 45,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 25,
         "root_score": 6.5,
         "dens_val": 5,
@@ -3512,7 +3512,7 @@ var geoJson = {
         "height": "4",
         "length": 60,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 60,
@@ -3548,7 +3548,7 @@ var geoJson = {
         "height": "2.5",
         "length": 35,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 35,
@@ -3584,7 +3584,7 @@ var geoJson = {
         "height": "1.5",
         "length": 35,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 50,
@@ -3656,7 +3656,7 @@ var geoJson = {
         "height": "3",
         "length": 40,
         "mat_score": 6,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 60,
@@ -3692,7 +3692,7 @@ var geoJson = {
         "height": "5.5",
         "length": 40,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 10,
         "root_score": 8.5,
         "dens_val": 10,
@@ -3728,7 +3728,7 @@ var geoJson = {
         "height": "4",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 90,
@@ -3764,7 +3764,7 @@ var geoJson = {
         "height": "4",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 50,
@@ -3800,7 +3800,7 @@ var geoJson = {
         "height": "4.5",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 15,
@@ -3836,7 +3836,7 @@ var geoJson = {
         "height": "2.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 10,
@@ -3872,7 +3872,7 @@ var geoJson = {
         "height": "5",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 15,
@@ -3908,7 +3908,7 @@ var geoJson = {
         "height": "1.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 60,
@@ -3944,7 +3944,7 @@ var geoJson = {
         "height": "5",
         "length": 35,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 15,
@@ -3980,7 +3980,7 @@ var geoJson = {
         "height": "4",
         "length": 35,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 30,
@@ -4016,7 +4016,7 @@ var geoJson = {
         "height": "6.5",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 5,
@@ -4160,7 +4160,7 @@ var geoJson = {
         "height": "1",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 50,
@@ -4196,7 +4196,7 @@ var geoJson = {
         "height": "1.5",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 50,
@@ -4232,7 +4232,7 @@ var geoJson = {
         "height": "1.5",
         "length": 32,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 85,
@@ -4268,7 +4268,7 @@ var geoJson = {
         "height": "1.5",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 40,
@@ -4304,7 +4304,7 @@ var geoJson = {
         "height": "1.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 75,
@@ -4340,7 +4340,7 @@ var geoJson = {
         "height": "2",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 80,
@@ -4376,7 +4376,7 @@ var geoJson = {
         "height": "1",
         "length": 100,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 75,
@@ -4412,7 +4412,7 @@ var geoJson = {
         "height": "3",
         "length": 30,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 55,
@@ -4448,7 +4448,7 @@ var geoJson = {
         "height": "2.5",
         "length": 155,
         "mat_score": 8,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -4484,7 +4484,7 @@ var geoJson = {
         "height": "2.5",
         "length": 65,
         "mat_score": 7,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 35,
@@ -4520,7 +4520,7 @@ var geoJson = {
         "height": "1.5",
         "length": 65,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 60,
@@ -4556,7 +4556,7 @@ var geoJson = {
         "height": "1",
         "length": 70,
         "mat_score": 8,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 0,
         "root_score": 10,
         "dens_val": 0,
@@ -4592,7 +4592,7 @@ var geoJson = {
         "height": "2.5",
         "length": 50,
         "mat_score": 8,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 5,
@@ -4628,7 +4628,7 @@ var geoJson = {
         "height": "2",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 75,
@@ -4664,7 +4664,7 @@ var geoJson = {
         "height": "2",
         "length": 20,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 35,
@@ -4700,7 +4700,7 @@ var geoJson = {
         "height": "2",
         "length": 65,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 55,
@@ -4736,7 +4736,7 @@ var geoJson = {
         "height": "1",
         "length": 20,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 30,
@@ -4772,7 +4772,7 @@ var geoJson = {
         "height": "0.5",
         "length": 0.5,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 20,
@@ -4808,7 +4808,7 @@ var geoJson = {
         "height": "1.5",
         "length": 40,
         "mat_score": -3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 25,
@@ -4880,7 +4880,7 @@ var geoJson = {
         "height": "4",
         "length": 80,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 25,
@@ -4988,7 +4988,7 @@ var geoJson = {
         "height": "6",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 50,
@@ -5024,7 +5024,7 @@ var geoJson = {
         "height": "3.5",
         "length": 47,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 55,
@@ -5060,7 +5060,7 @@ var geoJson = {
         "height": "2",
         "length": 64,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 20,
@@ -5096,7 +5096,7 @@ var geoJson = {
         "height": "3",
         "length": 72,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 50,
@@ -5132,7 +5132,7 @@ var geoJson = {
         "height": "2.25",
         "length": 60,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 5,
@@ -5168,7 +5168,7 @@ var geoJson = {
         "height": "4",
         "length": 110,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 60,
@@ -5204,7 +5204,7 @@ var geoJson = {
         "height": "5.5",
         "length": 82,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 45,
@@ -5240,7 +5240,7 @@ var geoJson = {
         "height": "4.5",
         "length": 38,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 55,
@@ -5276,7 +5276,7 @@ var geoJson = {
         "height": "1.5",
         "length": 70,
         "mat_score": 7,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 60,
@@ -5312,7 +5312,7 @@ var geoJson = {
         "height": "5",
         "length": 70,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 20,
@@ -5348,7 +5348,7 @@ var geoJson = {
         "height": "4.5",
         "length": 145,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 35,
@@ -5384,7 +5384,7 @@ var geoJson = {
         "height": "6",
         "length": 80,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 20,
@@ -5420,7 +5420,7 @@ var geoJson = {
         "height": "3.5",
         "length": 86,
         "mat_score": 6,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 40,
@@ -5528,7 +5528,7 @@ var geoJson = {
         "height": "4",
         "length": 80,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 25,
         "root_score": 6.5,
         "dens_val": 25,
@@ -5564,7 +5564,7 @@ var geoJson = {
         "height": "4",
         "length": 28,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -5600,7 +5600,7 @@ var geoJson = {
         "height": "6",
         "length": 154,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 20,
@@ -5636,7 +5636,7 @@ var geoJson = {
         "height": "6",
         "length": 46,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 40,
@@ -5672,7 +5672,7 @@ var geoJson = {
         "height": "6",
         "length": 52,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 20,
@@ -5708,7 +5708,7 @@ var geoJson = {
         "height": "7",
         "length": 123,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 15,
@@ -5816,7 +5816,7 @@ var geoJson = {
         "height": "5.5",
         "length": 87,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 40,
@@ -5852,7 +5852,7 @@ var geoJson = {
         "height": null,
         "length": 81,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -5924,7 +5924,7 @@ var geoJson = {
         "height": "5",
         "length": 47,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 30,
@@ -5960,7 +5960,7 @@ var geoJson = {
         "height": "4",
         "length": 28,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 55,
         "root_score": 3.75,
         "dens_val": 20,
@@ -6068,7 +6068,7 @@ var geoJson = {
         "height": "5.5",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 15,
@@ -6248,7 +6248,7 @@ var geoJson = {
         "height": "5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 10,
@@ -6392,7 +6392,7 @@ var geoJson = {
         "height": "3.5",
         "length": 25,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 30,
@@ -6428,7 +6428,7 @@ var geoJson = {
         "height": "5.5",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 40,
@@ -6464,7 +6464,7 @@ var geoJson = {
         "height": "6.5",
         "length": 33,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 25,
@@ -6608,7 +6608,7 @@ var geoJson = {
         "height": "4",
         "length": 40,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 45,
@@ -6644,7 +6644,7 @@ var geoJson = {
         "height": "3.5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 45,
@@ -6680,7 +6680,7 @@ var geoJson = {
         "height": "4",
         "length": 40,
         "mat_score": 4,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 40,
@@ -6716,7 +6716,7 @@ var geoJson = {
         "height": "4.5",
         "length": 60,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 100,
         "root_score": 0,
         "dens_val": 85,
@@ -6752,7 +6752,7 @@ var geoJson = {
         "height": "3.5",
         "length": 65,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 25,
@@ -6824,7 +6824,7 @@ var geoJson = {
         "height": "3.5",
         "length": 52,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 40,
@@ -6860,7 +6860,7 @@ var geoJson = {
         "height": "3.5",
         "length": 45,
         "mat_score": 6,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 25,
@@ -6896,7 +6896,7 @@ var geoJson = {
         "height": "4",
         "length": 35,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 30,
@@ -6932,7 +6932,7 @@ var geoJson = {
         "height": "5.5",
         "length": 95,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 45,
@@ -6968,7 +6968,7 @@ var geoJson = {
         "height": "2.5",
         "length": 45,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 75,
         "root_score": 2.75,
         "dens_val": 45,
@@ -7004,7 +7004,7 @@ var geoJson = {
         "height": "3.5",
         "length": 83,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 20,
@@ -7040,7 +7040,7 @@ var geoJson = {
         "height": "5.5",
         "length": 37,
         "mat_score": 2,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 30,
         "root_score": 6,
         "dens_val": 15,
@@ -7076,7 +7076,7 @@ var geoJson = {
         "height": "30",
         "length": 100,
         "mat_score": 7,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 5,
@@ -7112,7 +7112,7 @@ var geoJson = {
         "height": "5.5",
         "length": 127,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 10,
         "root_score": 8.5,
         "dens_val": 10,
@@ -7148,7 +7148,7 @@ var geoJson = {
         "height": "2",
         "length": 67,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 5,
@@ -7184,7 +7184,7 @@ var geoJson = {
         "height": "5.5",
         "length": 108,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -7220,7 +7220,7 @@ var geoJson = {
         "height": "2",
         "length": 58,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -7256,7 +7256,7 @@ var geoJson = {
         "height": "5.5",
         "length": 128,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -7292,7 +7292,7 @@ var geoJson = {
         "height": "5.5",
         "length": 200,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 10,
         "root_score": 8.5,
         "dens_val": 10,
@@ -7364,7 +7364,7 @@ var geoJson = {
         "height": "1.5",
         "length": 40,
         "mat_score": 1,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 45,
@@ -7436,7 +7436,7 @@ var geoJson = {
         "height": "2.5",
         "length": 30,
         "mat_score": 1,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 25,
@@ -7688,7 +7688,7 @@ var geoJson = {
         "height": "3",
         "length": 95,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 50,
         "root_score": 4,
         "dens_val": 40,
@@ -7832,7 +7832,7 @@ var geoJson = {
         "height": "4",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 20,
@@ -7868,7 +7868,7 @@ var geoJson = {
         "height": "4",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 20,
@@ -7976,7 +7976,7 @@ var geoJson = {
         "height": "6",
         "length": 80,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 20,
         "root_score": 7,
         "dens_val": 10,
@@ -8192,7 +8192,7 @@ var geoJson = {
         "height": "5",
         "length": 80,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 20,
         "root_score": 3,
         "dens_val": 30,
@@ -8228,7 +8228,7 @@ var geoJson = {
         "height": "7",
         "length": 120,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 40,
@@ -8264,7 +8264,7 @@ var geoJson = {
         "height": "5",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 85,
         "root_score": 2.25,
         "dens_val": 20,
@@ -8300,7 +8300,7 @@ var geoJson = {
         "height": "25",
         "length": 100,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 15,
@@ -8336,7 +8336,7 @@ var geoJson = {
         "height": "6",
         "length": 75,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.25,
         "dens_val": 15,
@@ -8408,7 +8408,7 @@ var geoJson = {
         "height": "18",
         "length": 15,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -8444,7 +8444,7 @@ var geoJson = {
         "height": "6",
         "length": 60,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 20,
@@ -8480,7 +8480,7 @@ var geoJson = {
         "height": "15",
         "length": 100,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 90,
         "root_score": 2,
         "dens_val": 20,
@@ -8516,7 +8516,7 @@ var geoJson = {
         "height": "5",
         "length": 50,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -8552,7 +8552,7 @@ var geoJson = {
         "height": "5",
         "length": 150,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 60,
         "root_score": 3.5,
         "dens_val": 10,
@@ -8624,7 +8624,7 @@ var geoJson = {
         "height": "2.5",
         "length": 80,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 40,
         "root_score": 4.75,
         "dens_val": 10,
@@ -9272,7 +9272,7 @@ var geoJson = {
         "height": "5",
         "length": 35,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 60,
@@ -9393,7 +9393,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010669.jpg'],['images/stream_banks/hemlock/P1010670.jpg'],['images/stream_banks/hemlock/P1010671.jpg'],['images/stream_banks/hemlock/P1010672.jpg'],['images/stream_banks/hemlock/P1010673.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9429,7 +9429,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010674.jpg'],['images/stream_banks/hemlock/P1010675.jpg'],['images/stream_banks/hemlock/P1010676.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9465,7 +9465,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010697.jpg'],['images/stream_banks/hemlock/P1010699.jpg'],['images/stream_banks/hemlock/P1010700.jpg'],['images/stream_banks/hemlock/P1010701.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9501,7 +9501,7 @@ var geoJson = {
         "rank": "low",
         "marker-color": "#00C000",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010640.jpg'],['images/stream_banks/hemlock/P1010641.jpg'],['images/stream_banks/hemlock/P1010642.jpg'],['images/stream_banks/hemlock/P1010643.jpg'],['images/stream_banks/hemlock/P1010644.jpg'],['images/stream_banks/hemlock/P1010645.jpg'],['images/stream_banks/hemlock/P1010646.jpg'],['images/stream_banks/hemlock/P1010647.jpg'],['images/stream_banks/hemlock/P1010648.jpg'],['images/stream_banks/hemlock/P1010649.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9537,7 +9537,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010656.jpg'],['images/stream_banks/hemlock/P1010657.jpg'],['images/stream_banks/hemlock/P1010658.jpg'],['images/stream_banks/hemlock/P1010659.jpg'],['images/stream_banks/hemlock/P1010660.jpg'],['images/stream_banks/hemlock/P1010661.jpg'],['images/stream_banks/hemlock/P1010662.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9573,7 +9573,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010663.jpg'],['images/stream_banks/hemlock/P1010664.jpg'],['images/stream_banks/hemlock/P1010665.jpg'],['images/stream_banks/hemlock/P1010666.jpg'],['images/stream_banks/hemlock/P1010667.jpg'],['images/stream_banks/hemlock/P1010668.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9596,7 +9596,7 @@ var geoJson = {
         "height": "5.5",
         "length": 130,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -9609,7 +9609,7 @@ var geoJson = {
         "rank": "extreme",
         "marker-color": "#5F1610",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010357.jpg'],['images/stream_banks/hemlock/P1010358.jpg'],['images/stream_banks/hemlock/P1010359.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9645,7 +9645,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010360.jpg'],['images/stream_banks/hemlock/P1010361.jpg'],['images/stream_banks/hemlock/P1010362.jpg'],['images/stream_banks/hemlock/P1010363.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9681,7 +9681,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010364.jpg'],['images/stream_banks/hemlock/P1010365.jpg'],['images/stream_banks/hemlock/P1010366.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9717,7 +9717,7 @@ var geoJson = {
         "rank": "extreme",
         "marker-color": "#5F1610",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010367.jpg'],['images/stream_banks/hemlock/P1010368.jpg'],['images/stream_banks/hemlock/P1010369.jpg'],['images/stream_banks/hemlock/P1010370.jpg'],['images/stream_banks/hemlock/P1010371.jpg'],['images/stream_banks/hemlock/P1010372.jpg'],['images/stream_banks/hemlock/P1010373.jpg'],['images/stream_banks/hemlock/P1010374.jpg'],['images/stream_banks/hemlock/P1010375.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9753,7 +9753,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010376.jpg'],['images/stream_banks/hemlock/P1010377.jpg'],['images/stream_banks/hemlock/P1010378.jpg'],['images/stream_banks/hemlock/P1010379.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9776,7 +9776,7 @@ var geoJson = {
         "height": "3.5",
         "length": 55,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 50,
@@ -9789,7 +9789,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010380.jpg'],['images/stream_banks/hemlock/P1010381.jpg'],['images/stream_banks/hemlock/P1010382.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9825,7 +9825,7 @@ var geoJson = {
         "rank": "extreme",
         "marker-color": "#5F1610",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010383.jpg'],['images/stream_banks/hemlock/P1010384.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9861,7 +9861,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010385.jpg'],['images/stream_banks/hemlock/P1010386.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9897,7 +9897,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/G140612-0000.jpg'],['images/stream_banks/hemlock/G140612-0001.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9920,7 +9920,7 @@ var geoJson = {
         "height": "2",
         "length": 58,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 5,
         "root_score": 9,
         "dens_val": 5,
@@ -9933,7 +9933,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/G140612-0002.jpg'],['images/stream_banks/hemlock/G140612-0003.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -9969,7 +9969,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/G140612-0005.jpg'],['images/stream_banks/hemlock/G140612-0006.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10005,7 +10005,7 @@ var geoJson = {
         "rank": "very high",
         "marker-color": "#FF0000",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/G140612-0007.jpg'],['images/stream_banks/hemlock/G140612-0008.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10041,7 +10041,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/G140612-0009.jpg'],['images/stream_banks/hemlock/G140612-0010.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10064,7 +10064,7 @@ var geoJson = {
         "height": "3",
         "length": 40,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 80,
         "root_score": 2.5,
         "dens_val": 25,
@@ -10077,7 +10077,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010396.jpg'],['images/stream_banks/hemlock/P1010397.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10100,7 +10100,7 @@ var geoJson = {
         "height": "5",
         "length": 70,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 45,
         "root_score": 4.25,
         "dens_val": 25,
@@ -10113,7 +10113,7 @@ var geoJson = {
         "rank": "high",
         "marker-color": "#FAAD12",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010399.jpg'],['images/stream_banks/hemlock/P1010400.jpg'],['images/stream_banks/hemlock/P1010401.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10136,7 +10136,7 @@ var geoJson = {
         "height": "4",
         "length": 27,
         "mat_score": 3,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 95,
         "root_score": 1.5,
         "dens_val": 25,
@@ -10149,7 +10149,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010403.jpg'],['images/stream_banks/hemlock/P1010404.jpg'],['images/stream_banks/hemlock/P1010405.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10172,7 +10172,7 @@ var geoJson = {
         "height": "20",
         "length": 100,
         "mat_score": 5,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 10,
         "root_score": 8.5,
         "dens_val": 5,
@@ -10185,7 +10185,7 @@ var geoJson = {
         "rank": "very high",
         "marker-color": "#FF0000",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010406.jpg'],['images/stream_banks/hemlock/P1010407.jpg'],['images/stream_banks/hemlock/P1010408.jpg'],['images/stream_banks/hemlock/P1010410.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10221,7 +10221,7 @@ var geoJson = {
         "rank": "very high",
         "marker-color": "#FF0000",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010411.jpg'],['images/stream_banks/hemlock/P1010412.jpg'],['images/stream_banks/hemlock/P1010414.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10244,7 +10244,7 @@ var geoJson = {
         "height": "5",
         "length": 45,
         "mat_score": 0,
-        "strat_score": 0,
+        "strat_score": "0",
         "root_val": 70,
         "root_score": 3,
         "dens_val": 20,
@@ -10257,7 +10257,7 @@ var geoJson = {
         "rank": "moderate",
         "marker-color": "#FFFF00",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010416.jpg'],['images/stream_banks/hemlock/P1010417.jpg']]
       },
       "geometry": {
         "type": "Point",
@@ -10293,13 +10293,10129 @@ var geoJson = {
         "rank": "very high",
         "marker-color": "#FF0000",
         "marker-size": "small",
-        "images": [['images/not_available.png']]
+        "images": [['images/stream_banks/hemlock/P1010418.jpg'],['images/stream_banks/hemlock/P1010419.jpg'],['images/stream_banks/hemlock/P1010420.jpg'],['images/stream_banks/hemlock/P1010421.jpg'],['images/stream_banks/hemlock/P1010422.jpg'],['images/stream_banks/hemlock/P1010423.jpg'],['images/stream_banks/hemlock/P1010424.jpg']]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.57155,
           41.379892
+		]
+		}
+      },
+	  {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1DSC",
+        "id": 287,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349827,
+        "longitude": -81.826043,
+        "pic_num": "1, 2, 3",
+        "bank": "L",
+        "height": "6",
+        "length": 47.666667,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826043,
+          41.349827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1A",
+        "id": 288,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364762,
+        "longitude": -81.854948,
+        "pic_num": "320, 319",
+        "bank": "L",
+        "height": "11.5 / ABF 6",
+        "length": 156,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854948,
+          41.364762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2A",
+        "id": 289,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364356,
+        "longitude": -81.854685,
+        "pic_num": "321",
+        "bank": "L",
+        "height": "8.5",
+        "length": 52,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 21.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854685,
+          41.364356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3A",
+        "id": 290,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364218,
+        "longitude": -81.854597,
+        "pic_num": "322",
+        "bank": "L",
+        "height": "10 / ABF 6",
+        "length": 37,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 26.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854597,
+          41.364218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4A",
+        "id": 291,
+        "Location": "Baldwin Creek",
+        "latitude": 41.363497,
+        "longitude": -81.854033,
+        "pic_num": "323, 324",
+        "bank": "L",
+        "height": "6.5",
+        "length": 51,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 19.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854033,
+          41.363497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5A",
+        "id": 292,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36348,
+        "longitude": -81.854109,
+        "pic_num": "326, 325",
+        "bank": "R",
+        "height": "10.5 / ABF 6",
+        "length": 53,
+        "mat_score": -5,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 15.25,
+        "rank": "low",
+        "marker-color": "#00C000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854109,
+          41.36348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6A",
+        "id": 293,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362315,
+        "longitude": -81.854085,
+        "pic_num": "328, 327",
+        "bank": "L",
+        "height": "2",
+        "length": 79,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854085,
+          41.362315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7A",
+        "id": 294,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362299,
+        "longitude": -81.854186,
+        "pic_num": "330, 329",
+        "bank": "R",
+        "height": "1.5",
+        "length": 104,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854186,
+          41.362299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1B",
+        "id": 295,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362049,
+        "longitude": -81.854162,
+        "pic_num": "002, 001",
+        "bank": "L",
+        "height": "4",
+        "length": 70,
+        "mat_score": -2,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 40,
+        "angle_scor": 3,
+        "surf_val": 75,
+        "surf_score": 2.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854162,
+          41.362049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2B",
+        "id": 296,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361836,
+        "longitude": -81.854214,
+        "pic_num": "3",
+        "bank": "L",
+        "height": "2.5",
+        "length": 27,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 10,
+        "root_score": 8.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 30,
+        "angle_scor": 2.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 32,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854214,
+          41.361836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3B",
+        "id": 297,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36164,
+        "longitude": -81.854276,
+        "pic_num": "005, 004",
+        "bank": "R",
+        "height": "2",
+        "length": 23,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 22.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.854276,
+          41.36164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4B",
+        "id": 298,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361176,
+        "longitude": -81.852588,
+        "pic_num": "008, 007",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 80,
+        "mat_score": -2,
+        "strat_score": 1,
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 27.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.852588,
+          41.361176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5B",
+        "id": 299,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361096,
+        "longitude": -81.852788,
+        "pic_num": "6",
+        "bank": "R",
+        "height": "20+/ BF 5.5",
+        "length": 365,
+        "mat_score": -2,
+        "strat_score": 1,
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 28,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.852788,
+          41.361096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6B",
+        "id": 300,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361167,
+        "longitude": -81.85243,
+        "pic_num": "012, 011, 010, 009",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 275,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85243,
+          41.361167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7B",
+        "id": 301,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361144,
+        "longitude": -81.851529,
+        "pic_num": "016, 015, 014, 013",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 68,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 21.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.851529,
+          41.361144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8B",
+        "id": 302,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361085,
+        "longitude": -81.851034,
+        "pic_num": "019, 018, 017",
+        "bank": "R",
+        "height": "12 / ABF 6",
+        "length": 67,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 16,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.851034,
+          41.361085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9B",
+        "id": 303,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361127,
+        "longitude": -81.851244,
+        "pic_num": "020, 021",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 55,
+        "mat_score": -2,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 27.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.851244,
+          41.361127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2C",
+        "id": 304,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349887,
+        "longitude": -81.825987,
+        "pic_num": "5, 4",
+        "bank": "R",
+        "height": "4",
+        "length": 48,
+        "mat_score": 5,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 29.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825987,
+          41.349887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4C",
+        "id": 305,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350664,
+        "longitude": -81.8258,
+        "pic_num": "9",
+        "bank": "R",
+        "height": "4",
+        "length": 46,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8258,
+          41.350664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5C",
+        "id": 306,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350883,
+        "longitude": -81.825904,
+        "pic_num": "10, 11",
+        "bank": "R",
+        "height": "2.5",
+        "length": 35,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 17,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825904,
+          41.350883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6C",
+        "id": 307,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350915,
+        "longitude": -81.825937,
+        "pic_num": "12",
+        "bank": "L",
+        "height": "5.5",
+        "length": 26,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825937,
+          41.350915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7C",
+        "id": 308,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351371,
+        "longitude": -81.825905,
+        "pic_num": "13, 14",
+        "bank": "R",
+        "height": "6",
+        "length": 18,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825905,
+          41.351371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8C",
+        "id": 309,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35174,
+        "longitude": -81.825508,
+        "pic_num": "15, 16",
+        "bank": "L",
+        "height": "8",
+        "length": 214,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 31.75,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825508,
+          41.35174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9C",
+        "id": 310,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351762,
+        "longitude": -81.825344,
+        "pic_num": "18, 17, 19(Trib)",
+        "bank": "R",
+        "height": "6.5",
+        "length": 98,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 35,
+        "root_score": 5.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825344,
+          41.351762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10C",
+        "id": 311,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351967,
+        "longitude": -81.825535,
+        "pic_num": "20, 21",
+        "bank": "R",
+        "height": "3",
+        "length": 84,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 16.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825535,
+          41.351967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11C",
+        "id": 312,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352159,
+        "longitude": -81.826319,
+        "pic_num": "23, 22",
+        "bank": "R",
+        "height": "6.5",
+        "length": 130,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826319,
+          41.352159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12C",
+        "id": 313,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351809,
+        "longitude": -81.826546,
+        "pic_num": "24",
+        "bank": "L",
+        "height": "6",
+        "length": 91,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826546,
+          41.351809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13C",
+        "id": 314,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351791,
+        "longitude": -81.826691,
+        "pic_num": "25, 26, 27 (DJ)",
+        "bank": "L",
+        "height": "6.5",
+        "length": 52,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 32,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826691,
+          41.351791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14C",
+        "id": 315,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352027,
+        "longitude": -81.826933,
+        "pic_num": "28, 29",
+        "bank": "R",
+        "height": "2",
+        "length": 85,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826933,
+          41.352027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15C",
+        "id": 316,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352695,
+        "longitude": -81.827731,
+        "pic_num": "31, 30",
+        "bank": "L",
+        "height": "4",
+        "length": 128,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 22,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.827731,
+          41.352695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16C",
+        "id": 317,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352891,
+        "longitude": -81.827793,
+        "pic_num": "32, 33",
+        "bank": "L",
+        "height": "5.5",
+        "length": 41,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 10,
+        "root_score": 8.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 32,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.827793,
+          41.352891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1USC",
+        "id": 318,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349892,
+        "longitude": -81.826126,
+        "pic_num": "1, 2, 3",
+        "bank": "L",
+        "height": "6",
+        "length": 95.333333,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826126,
+          41.349892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3DSC",
+        "id": 319,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350468,
+        "longitude": -81.826007,
+        "pic_num": "8, 7",
+        "bank": "L",
+        "height": "6",
+        "length": 55.5,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 19.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.826007,
+          41.350468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3USC",
+        "id": 320,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350587,
+        "longitude": -81.825936,
+        "pic_num": "8, 7, 6(DJ)",
+        "bank": "L",
+        "height": "6",
+        "length": 55.5,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 19.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825936,
+          41.350587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1D",
+        "id": 321,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349354,
+        "longitude": -81.825356,
+        "pic_num": "35, 34",
+        "bank": "R",
+        "height": "5.5",
+        "length": 173,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 17.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825356,
+          41.349354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2D",
+        "id": 322,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349432,
+        "longitude": -81.825345,
+        "pic_num": "36, 37",
+        "bank": "L",
+        "height": "3.5",
+        "length": 54,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825345,
+          41.349432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3D",
+        "id": 323,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349387,
+        "longitude": -81.825209,
+        "pic_num": "38, 39",
+        "bank": "L",
+        "height": "2.5",
+        "length": 44,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.825209,
+          41.349387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4D",
+        "id": 324,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349273,
+        "longitude": -81.824935,
+        "pic_num": "41, 40",
+        "bank": "L",
+        "height": "2",
+        "length": 32,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824935,
+          41.349273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "0E",
+        "id": 325,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359682,
+        "longitude": -81.810499,
+        "pic_num": "14, 15",
+        "bank": "R",
+        "height": "3",
+        "length": 43,
+        "mat_score": -2,
+        "strat_score": 1,
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.810499,
+          41.359682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1E",
+        "id": 326,
+        "Location": "Baldwin Creek",
+        "latitude": 41.342591,
+        "longitude": -81.773845,
+        "pic_num": "33, 32",
+        "bank": "R",
+        "height": "2.5",
+        "length": 80,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 25.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773845,
+          41.342591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2E",
+        "id": 327,
+        "Location": "Baldwin Creek",
+        "latitude": 41.341916,
+        "longitude": -81.773505,
+        "pic_num": "34, 35",
+        "bank": "R",
+        "height": "2",
+        "length": 19,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 28.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773505,
+          41.341916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3E",
+        "id": 328,
+        "Location": "Baldwin Creek",
+        "latitude": 41.341789,
+        "longitude": -81.773411,
+        "pic_num": "36",
+        "bank": "L",
+        "height": "1.5",
+        "length": 16,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773411,
+          41.341789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4E",
+        "id": 329,
+        "Location": "Baldwin Creek",
+        "latitude": 41.341681,
+        "longitude": -81.773359,
+        "pic_num": "37, 38",
+        "bank": "L",
+        "height": "3",
+        "length": 42,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 23.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773359,
+          41.341681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5E",
+        "id": 330,
+        "Location": "Baldwin Creek",
+        "latitude": 41.340997,
+        "longitude": -81.772897,
+        "pic_num": "43, 44",
+        "bank": "L",
+        "height": "3",
+        "length": 10,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 35,
+        "root_score": 5.25,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 31.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.772897,
+          41.340997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6E",
+        "id": 331,
+        "Location": "Baldwin Creek",
+        "latitude": 41.340852,
+        "longitude": -81.772797,
+        "pic_num": "45, 46",
+        "bank": "L",
+        "height": "3",
+        "length": 30,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.772797,
+          41.340852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7E",
+        "id": 332,
+        "Location": "Baldwin Creek",
+        "latitude": 41.340546,
+        "longitude": -81.772592,
+        "pic_num": "47, 48",
+        "bank": "L",
+        "height": "2",
+        "length": 55,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 10,
+        "root_score": 8.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 30.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.772592,
+          41.340546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8E",
+        "id": 333,
+        "Location": "Baldwin Creek",
+        "latitude": 41.339956,
+        "longitude": -81.7722,
+        "pic_num": "50, 49",
+        "bank": "L",
+        "height": "4.5",
+        "length": 42,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 28.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7722,
+          41.339956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9E",
+        "id": 334,
+        "Location": "Baldwin Creek",
+        "latitude": 41.33984,
+        "longitude": -81.77213,
+        "pic_num": "52, 51",
+        "bank": "L",
+        "height": "5",
+        "length": 20,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 28,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77213,
+          41.33984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10E",
+        "id": 335,
+        "Location": "Baldwin Creek",
+        "latitude": 41.339172,
+        "longitude": -81.771605,
+        "pic_num": "55, 54",
+        "bank": "L",
+        "height": "5.5",
+        "length": 47,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 19.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.771605,
+          41.339172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11E",
+        "id": 336,
+        "Location": "Baldwin Creek",
+        "latitude": 41.339078,
+        "longitude": -81.771213,
+        "pic_num": "56",
+        "bank": "L",
+        "height": "3.5",
+        "length": 14,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 17.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.771213,
+          41.339078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12E",
+        "id": 337,
+        "Location": "Baldwin Creek",
+        "latitude": 41.339026,
+        "longitude": -81.770995,
+        "pic_num": "57",
+        "bank": "L",
+        "height": "3.5",
+        "length": 13,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.770995,
+          41.339026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1F",
+        "id": 338,
+        "Location": "Baldwin Creek",
+        "latitude": 41.34912,
+        "longitude": -81.824835,
+        "pic_num": "2, 1",
+        "bank": "L",
+        "height": "5",
+        "length": 71,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 70,
+        "surf_score": 3,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824835,
+          41.34912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1USF",
+        "id": 339,
+        "Location": "Baldwin Creek",
+        "latitude": 41.342957,
+        "longitude": -81.773949,
+        "pic_num": "4, 3",
+        "bank": "R",
+        "height": "5",
+        "length": 104,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 23.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773949,
+          41.342957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1DSF",
+        "id": 340,
+        "Location": "Baldwin Creek",
+        "latitude": 41.343002,
+        "longitude": -81.773949,
+        "pic_num": "5, 6",
+        "bank": "L",
+        "height": "3",
+        "length": 38,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 70,
+        "dens_scor": "2.75",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 16.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773949,
+          41.343002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2F",
+        "id": 341,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348982,
+        "longitude": -81.824663,
+        "pic_num": "9, 8, 7",
+        "bank": "R",
+        "height": "2",
+        "length": 47,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 22.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824663,
+          41.348982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3F",
+        "id": 342,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349004,
+        "longitude": -81.824442,
+        "pic_num": "11, 10",
+        "bank": "L",
+        "height": "20+/ BF 4",
+        "length": 75,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 27.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824442,
+          41.349004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4F",
+        "id": 343,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348821,
+        "longitude": -81.824342,
+        "pic_num": "13, 12",
+        "bank": "R",
+        "height": "3.5",
+        "length": 85,
+        "mat_score": 5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 24.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824342,
+          41.348821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5F",
+        "id": 344,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348833,
+        "longitude": -81.824222,
+        "pic_num": "16, 15, 14",
+        "bank": "L",
+        "height": "4.5",
+        "length": 52,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 22.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824222,
+          41.348833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6F",
+        "id": 345,
+        "Location": "Baldwin Creek",
+        "latitude": 41.34876,
+        "longitude": -81.824196,
+        "pic_num": "18, 17",
+        "bank": "L",
+        "height": "2.5",
+        "length": 49,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 17,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824196,
+          41.34876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7F",
+        "id": 346,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348858,
+        "longitude": -81.824131,
+        "pic_num": "20, 19",
+        "bank": "L",
+        "height": "15/ BF 4",
+        "length": 46,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 28.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824131,
+          41.348858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8F",
+        "id": 347,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348907,
+        "longitude": -81.824048,
+        "pic_num": "22, 21",
+        "bank": "R",
+        "height": "5",
+        "length": 27,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 35,
+        "angle_scor": 2.75,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 28.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824048,
+          41.348907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9F",
+        "id": 348,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349051,
+        "longitude": -81.823945,
+        "pic_num": "24, 23",
+        "bank": "R",
+        "height": "5.5",
+        "length": 52,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 20.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823945,
+          41.349051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10F",
+        "id": 349,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349294,
+        "longitude": -81.823875,
+        "pic_num": "26, 25",
+        "bank": "L",
+        "height": "3.5",
+        "length": 52,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823875,
+          41.349294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11F",
+        "id": 350,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349423,
+        "longitude": -81.823911,
+        "pic_num": "27, 28",
+        "bank": "R",
+        "height": "5.5",
+        "length": 75,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823911,
+          41.349423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12F",
+        "id": 351,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349361,
+        "longitude": -81.823982,
+        "pic_num": "30, 29",
+        "bank": "L",
+        "height": "5.5",
+        "length": 103,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 19.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823982,
+          41.349361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13F",
+        "id": 352,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349599,
+        "longitude": -81.824036,
+        "pic_num": "3, 2, 1",
+        "bank": "R",
+        "height": "4",
+        "length": 160,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 21.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824036,
+          41.349599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14F",
+        "id": 353,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349805,
+        "longitude": -81.824027,
+        "pic_num": "5, 4",
+        "bank": "R",
+        "height": "5",
+        "length": 70,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.824027,
+          41.349805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15F",
+        "id": 354,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349851,
+        "longitude": -81.823949,
+        "pic_num": "1, 3, 2",
+        "bank": "L",
+        "height": "1.5",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823949,
+          41.349851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16F",
+        "id": 355,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350034,
+        "longitude": -81.823387,
+        "pic_num": "1, 3, 2",
+        "bank": "L",
+        "height": "1.5",
+        "length": 18,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823387,
+          41.350034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1DSG",
+        "id": 356,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345021,
+        "longitude": -81.773817,
+        "pic_num": "4, 5",
+        "bank": "R",
+        "height": "2.5",
+        "length": 54,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773817,
+          41.345021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1USG",
+        "id": 357,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344911,
+        "longitude": -81.773903,
+        "pic_num": "7, 8",
+        "bank": "R",
+        "height": "3",
+        "length": 30,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773903,
+          41.344911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2G",
+        "id": 358,
+        "Location": "Baldwin Creek",
+        "latitude": 41.342985,
+        "longitude": -81.773915,
+        "pic_num": "10, 11",
+        "bank": "L",
+        "height": "2",
+        "length": 51,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 24.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773915,
+          41.342985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3G",
+        "id": 359,
+        "Location": "Baldwin Creek",
+        "latitude": 41.343407,
+        "longitude": -81.7738,
+        "pic_num": "14, 13",
+        "bank": "R",
+        "height": "4",
+        "length": 93,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 22,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7738,
+          41.343407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4G",
+        "id": 360,
+        "Location": "Baldwin Creek",
+        "latitude": 41.343446,
+        "longitude": -81.773845,
+        "pic_num": "15, 16",
+        "bank": "R",
+        "height": "2",
+        "length": 50,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 26.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773845,
+          41.343446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5G",
+        "id": 361,
+        "Location": "Baldwin Creek",
+        "latitude": 41.343675,
+        "longitude": -81.774027,
+        "pic_num": "17",
+        "bank": "L",
+        "height": "2.5",
+        "length": 12,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 22.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774027,
+          41.343675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6G",
+        "id": 362,
+        "Location": "Baldwin Creek",
+        "latitude": 41.343903,
+        "longitude": -81.774168,
+        "pic_num": "18, 19",
+        "bank": "L",
+        "height": "2.5",
+        "length": 14.5,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 27.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774168,
+          41.343903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7G",
+        "id": 363,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344011,
+        "longitude": -81.774216,
+        "pic_num": "21, 20",
+        "bank": "R",
+        "height": "4/ BF 2.5",
+        "length": 27,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774216,
+          41.344011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8G",
+        "id": 364,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344127,
+        "longitude": -81.774151,
+        "pic_num": "26, 27",
+        "bank": "L",
+        "height": "4",
+        "length": 28,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774151,
+          41.344127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9G",
+        "id": 365,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344179,
+        "longitude": -81.774049,
+        "pic_num": "31, 30",
+        "bank": "R",
+        "height": "3",
+        "length": 26,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 31.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774049,
+          41.344179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10G",
+        "id": 366,
+        "Location": "Baldwin Creek",
+        "latitude": 41.34464,
+        "longitude": -81.774154,
+        "pic_num": "33, 34",
+        "bank": "R",
+        "height": "4.5",
+        "length": 30,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774154,
+          41.34464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11G",
+        "id": 367,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344608,
+        "longitude": -81.773942,
+        "pic_num": "36, 35",
+        "bank": "L",
+        "height": "2.5",
+        "length": 18,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773942,
+          41.344608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12G",
+        "id": 368,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344708,
+        "longitude": -81.77402,
+        "pic_num": "38, 39",
+        "bank": "L",
+        "height": "5",
+        "length": 121,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 18.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77402,
+          41.344708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13G",
+        "id": 369,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344621,
+        "longitude": -81.774284,
+        "pic_num": "2349, 2352",
+        "bank": "R",
+        "height": "3.5",
+        "length": 60,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 29.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774284,
+          41.344621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14G",
+        "id": 370,
+        "Location": "Baldwin Creek",
+        "latitude": 41.344807,
+        "longitude": -81.774093,
+        "pic_num": "2349, 2352",
+        "bank": "R",
+        "height": "3.5",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 29.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.774093,
+          41.344807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1DSH",
+        "id": 371,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361083,
+        "longitude": -81.850799,
+        "pic_num": "2350, 2351",
+        "bank": "L",
+        "height": "1.5",
+        "length": 65,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 30.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850799,
+          41.361083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1USH",
+        "id": 372,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361083,
+        "longitude": -81.850911,
+        "pic_num": "2354, 2353",
+        "bank": "L",
+        "height": "3.25",
+        "length": 105,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 29.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850911,
+          41.361083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2H",
+        "id": 373,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345007,
+        "longitude": -81.773844,
+        "pic_num": "2357, 2358",
+        "bank": "R",
+        "height": "3",
+        "length": 26,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 40,
+        "angle_scor": 3,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 16,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773844,
+          41.345007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3H",
+        "id": 374,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345214,
+        "longitude": -81.773869,
+        "pic_num": "2359, 2360",
+        "bank": "L",
+        "height": "3.5",
+        "length": 181,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 31.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773869,
+          41.345214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4H",
+        "id": 375,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345347,
+        "longitude": -81.773846,
+        "pic_num": "2361, 2362",
+        "bank": "R",
+        "height": "2.5",
+        "length": 47,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773846,
+          41.345347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5H",
+        "id": 376,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345685,
+        "longitude": -81.773879,
+        "pic_num": "2364, 2365",
+        "bank": "R",
+        "height": "3",
+        "length": 19,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 34.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773879,
+          41.345685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6H",
+        "id": 377,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345852,
+        "longitude": -81.773834,
+        "pic_num": "2366",
+        "bank": "L",
+        "height": "2.5",
+        "length": 11,
+        "mat_score": -2,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773834,
+          41.345852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7H",
+        "id": 378,
+        "Location": "Baldwin Creek",
+        "latitude": 41.345977,
+        "longitude": -81.773801,
+        "pic_num": "2367, 2368",
+        "bank": "R",
+        "height": "3.5",
+        "length": 36,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 100,
+        "angle_scor": 8.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 35.25,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773801,
+          41.345977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8H",
+        "id": 379,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346214,
+        "longitude": -81.773795,
+        "pic_num": "2369, 2370",
+        "bank": "R",
+        "height": "3",
+        "length": 77,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 33.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773795,
+          41.346214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9H",
+        "id": 380,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346222,
+        "longitude": -81.773768,
+        "pic_num": "2371, 2372",
+        "bank": "L",
+        "height": "3.5",
+        "length": 38,
+        "mat_score": 0,
+        "strat_score": 1,
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 27.5,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773768,
+          41.346222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10H",
+        "id": 381,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346325,
+        "longitude": -81.773773,
+        "pic_num": "2374, 2375",
+        "bank": "R",
+        "height": "4",
+        "length": 68,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 24.5,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773773,
+          41.346325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11H",
+        "id": 382,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346435,
+        "longitude": -81.773815,
+        "pic_num": "2376",
+        "bank": "L",
+        "height": "2.5",
+        "length": 43,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773815,
+          41.346435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12H",
+        "id": 383,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346584,
+        "longitude": -81.773794,
+        "pic_num": "2380, 2379",
+        "bank": "L",
+        "height": "4.5 / 3.5 BF",
+        "length": 16,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 27.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773794,
+          41.346584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13H",
+        "id": 384,
+        "Location": "Baldwin Creek",
+        "latitude": 41.346625,
+        "longitude": -81.773821,
+        "pic_num": "2381",
+        "bank": "R",
+        "height": "2.5",
+        "length": 15,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 28.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.773821,
+          41.346625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14H",
+        "id": 385,
+        "Location": "Baldwin Creek",
+        "latitude": 41.338958,
+        "longitude": -81.770698,
+        "pic_num": "2383, 2382",
+        "bank": "L",
+        "height": "3.5",
+        "length": 43,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 19,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.770698,
+          41.338958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15H",
+        "id": 386,
+        "Location": "Baldwin Creek",
+        "latitude": 41.338943,
+        "longitude": -81.77073,
+        "pic_num": "2386, 2384",
+        "bank": "R",
+        "height": "9.5/ BF 5.5",
+        "length": 145,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 30,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77073,
+          41.338943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16H",
+        "id": 387,
+        "Location": "Baldwin Creek",
+        "latitude": 41.338921,
+        "longitude": -81.770582,
+        "pic_num": "2386, 2384",
+        "bank": "R",
+        "height": "9.5/ BF 5.5",
+        "length": 30,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 30,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.770582,
+          41.338921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2I",
+        "id": 388,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361125,
+        "longitude": -81.850881,
+        "pic_num": "2388, 2387",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 80,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 60,
+        "dens_scor": "3.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 15.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850881,
+          41.361125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3I",
+        "id": 389,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361125,
+        "longitude": -81.850634,
+        "pic_num": "2392, 2391, 2390",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 93,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 23.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850634,
+          41.361125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4I",
+        "id": 390,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361057,
+        "longitude": -81.85047,
+        "pic_num": "2394, 2393",
+        "bank": "R",
+        "height": "9.5/ BF 5.5",
+        "length": 35,
+        "mat_score": 2,
+        "strat_score": 1,
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 26.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85047,
+          41.361057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5I",
+        "id": 391,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361064,
+        "longitude": -81.850006,
+        "pic_num": "2400, 2396, 2395",
+        "bank": "R",
+        "height": "7/ BF 5.5",
+        "length": 219,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 33,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850006,
+          41.361064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6I",
+        "id": 392,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361104,
+        "longitude": -81.850213,
+        "pic_num": "2397",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 21,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.850213,
+          41.361104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7I",
+        "id": 393,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361127,
+        "longitude": -81.849813,
+        "pic_num": "2399, 2398",
+        "bank": "L",
+        "height": "20+/ BF 5",
+        "length": 117,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849813,
+          41.361127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8I",
+        "id": 394,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361118,
+        "longitude": -81.84952,
+        "pic_num": "2403, 2402",
+        "bank": "L",
+        "height": "BF 5.25",
+        "length": 83,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 21.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84952,
+          41.361118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9I",
+        "id": 395,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361053,
+        "longitude": -81.849513,
+        "pic_num": "2405, 2404",
+        "bank": "R",
+        "height": "7/ BF 5.5",
+        "length": 104,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 26.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849513,
+          41.361053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10US",
+        "id": 396,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361098,
+        "longitude": -81.849313,
+        "pic_num": "2407, 2406",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 33,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 33,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849313,
+          41.361098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10MS",
+        "id": 397,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361065,
+        "longitude": -81.849166,
+        "pic_num": "2407, 2406",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 33,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 60,
+        "surf_score": 3.5,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849166,
+          41.361065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10DS",
+        "id": 398,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361027,
+        "longitude": -81.849007,
+        "pic_num": "2407, 2406",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 33,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 60,
+        "surf_score": 3.5,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849007,
+          41.361027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1J",
+        "id": 399,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360916,
+        "longitude": -81.848687,
+        "pic_num": "2441, 2440",
+        "bank": "L",
+        "height": "20+/ BF 5.5",
+        "length": 305,
+        "mat_score": 0,
+        "strat_score": 1.5,
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.848687,
+          41.360916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2J",
+        "id": 400,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360898,
+        "longitude": -81.848798,
+        "pic_num": "2444, 2442",
+        "bank": "R",
+        "height": "20+/ BF 5.5",
+        "length": 295,
+        "mat_score": 1,
+        "strat_score": 3,
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.848798,
+          41.360898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3J",
+        "id": 401,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36059,
+        "longitude": -81.848031,
+        "pic_num": "2446",
+        "bank": "R",
+        "height": "20+/ BF 5",
+        "length": 45,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 31.75,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.848031,
+          41.36059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4USJ",
+        "id": 402,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360501,
+        "longitude": -81.847894,
+        "pic_num": "2447, 2448",
+        "bank": "R",
+        "height": "2.5",
+        "length": 20,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 35,
+        "angle_scor": 2.75,
+        "surf_val": 0,
+        "surf_score": 10,
+        "tot_score": 29.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847894,
+          41.360501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4DSJ",
+        "id": 403,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360396,
+        "longitude": -81.847877,
+        "pic_num": "2447, 2448",
+        "bank": "R",
+        "height": "2.5",
+        "length": 43,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 35,
+        "angle_scor": 2.75,
+        "surf_val": 0,
+        "surf_score": 10,
+        "tot_score": 29.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847877,
+          41.360396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5K",
+        "id": 404,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360381,
+        "longitude": -81.847803,
+        "pic_num": "2450, 2449",
+        "bank": "L",
+        "height": "20+/ BF 4",
+        "length": 94,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 40,
+        "angle_scor": 3,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 31.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847803,
+          41.360381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6K",
+        "id": 405,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360052,
+        "longitude": -81.847926,
+        "pic_num": "2451, 2452",
+        "bank": "R",
+        "height": "3.5",
+        "length": 151,
+        "mat_score": 4.5,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 28.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847926,
+          41.360052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7K",
+        "id": 406,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359879,
+        "longitude": -81.8478,
+        "pic_num": "2454, 2453",
+        "bank": "L",
+        "height": "20+/ BF 3.5",
+        "length": 100,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 31.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8478,
+          41.359879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8K",
+        "id": 407,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359775,
+        "longitude": -81.847691,
+        "pic_num": "2455, 2456",
+        "bank": "L",
+        "height": "5",
+        "length": 41,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 100,
+        "angle_scor": 8.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 27.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847691,
+          41.359775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9USK",
+        "id": 408,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359787,
+        "longitude": -81.847488,
+        "pic_num": "2461, 2460",
+        "bank": "R",
+        "height": "5.5",
+        "length": 105,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.847488,
+          41.359787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9DSK",
+        "id": 409,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359838,
+        "longitude": -81.84729,
+        "pic_num": "2461, 2460",
+        "bank": "R",
+        "height": "5.5",
+        "length": 80,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84729,
+          41.359838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10L",
+        "id": 410,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35976,
+        "longitude": -81.846922,
+        "pic_num": "2462, 2463",
+        "bank": "R",
+        "height": "4.5",
+        "length": 44,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846922,
+          41.35976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11L",
+        "id": 411,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359647,
+        "longitude": -81.846731,
+        "pic_num": "2464, 2465",
+        "bank": "R",
+        "height": "5",
+        "length": 66,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846731,
+          41.359647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12L",
+        "id": 412,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359408,
+        "longitude": -81.846862,
+        "pic_num": "2467, 2466",
+        "bank": "L",
+        "height": "6",
+        "length": 86,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 25.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846862,
+          41.359408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13L",
+        "id": 413,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359299,
+        "longitude": -81.846915,
+        "pic_num": "2468",
+        "bank": "L",
+        "height": "5.5",
+        "length": 20,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 26.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846915,
+          41.359299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14L",
+        "id": 414,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359081,
+        "longitude": -81.846854,
+        "pic_num": "2469, 2470",
+        "bank": "R",
+        "height": "6.5",
+        "length": 27,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846854,
+          41.359081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15L",
+        "id": 415,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358809,
+        "longitude": -81.846609,
+        "pic_num": "2471, 2472",
+        "bank": "L",
+        "height": "7",
+        "length": 168,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.846609,
+          41.358809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16L",
+        "id": 416,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358085,
+        "longitude": -81.845385,
+        "pic_num": "2476, 2473",
+        "bank": "L",
+        "height": "1.5",
+        "length": 235,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.845385,
+          41.358085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17L",
+        "id": 417,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358184,
+        "longitude": -81.845511,
+        "pic_num": "2475, 2474",
+        "bank": "R",
+        "height": "2",
+        "length": 84,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 40,
+        "angle_scor": 3,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.845511,
+          41.358184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "18L",
+        "id": 418,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357545,
+        "longitude": -81.844843,
+        "pic_num": "2478, 2477",
+        "bank": "L",
+        "height": "20+/ BF 2",
+        "length": 186,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 31.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.844843,
+          41.357545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "19L",
+        "id": 419,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35797,
+        "longitude": -81.844451,
+        "pic_num": "2480, 2479",
+        "bank": "R",
+        "height": "3",
+        "length": 52,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 35,
+        "root_score": 5.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 28.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.844451,
+          41.35797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1M",
+        "id": 420,
+        "Location": "Baldwin Creek",
+        "latitude": 41.366578,
+        "longitude": -81.788601,
+        "pic_num": "2488, 2489",
+        "bank": "R",
+        "height": "11/ BF 2.5",
+        "length": 90,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 30.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788601,
+          41.366578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2USM",
+        "id": 421,
+        "Location": "Baldwin Creek",
+        "latitude": 41.366623,
+        "longitude": -81.788961,
+        "pic_num": "2490, 2492",
+        "bank": "L",
+        "height": "1.5",
+        "length": 30,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788961,
+          41.366623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2DSM",
+        "id": 422,
+        "Location": "Baldwin Creek",
+        "latitude": 41.366624,
+        "longitude": -81.788685,
+        "pic_num": "2490, 2492",
+        "bank": "L",
+        "height": "1.5",
+        "length": 133,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.788685,
+          41.366624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1N",
+        "id": 423,
+        "Location": "Baldwin Creek",
+        "latitude": 41.347979,
+        "longitude": -81.775044,
+        "pic_num": "2494, 2495",
+        "bank": "L",
+        "height": "2.5",
+        "length": 47,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 30,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.775044,
+          41.347979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2N",
+        "id": 424,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348042,
+        "longitude": -81.775036,
+        "pic_num": "2496, 2497, 2498",
+        "bank": "R",
+        "height": "4",
+        "length": 26,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.775036,
+          41.348042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3N",
+        "id": 425,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348155,
+        "longitude": -81.77512,
+        "pic_num": "2499, 2500, 2501, 2502",
+        "bank": "R",
+        "height": "4.5",
+        "length": 41,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77512,
+          41.348155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4N",
+        "id": 426,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348389,
+        "longitude": -81.77526,
+        "pic_num": "2503, 2504",
+        "bank": "L",
+        "height": "4",
+        "length": 57,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 26.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.77526,
+          41.348389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5N",
+        "id": 427,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348536,
+        "longitude": -81.775297,
+        "pic_num": "2505, 2506",
+        "bank": "R",
+        "height": "4.5",
+        "length": 13,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 28.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.775297,
+          41.348536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6N",
+        "id": 428,
+        "Location": "Baldwin Creek",
+        "latitude": 41.348753,
+        "longitude": -81.775624,
+        "pic_num": "2507, 2508",
+        "bank": "L",
+        "height": "4",
+        "length": 24.5,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.775624,
+          41.348753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9N",
+        "id": 429,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349012,
+        "longitude": -81.775854,
+        "pic_num": "2514, 2515",
+        "bank": "R",
+        "height": "4",
+        "length": 52,
+        "mat_score": -2,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 31.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.775854,
+          41.349012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10N",
+        "id": 430,
+        "Location": "Baldwin Creek",
+        "latitude": 41.34916,
+        "longitude": -81.776046,
+        "pic_num": "2516, 2517, 2518",
+        "bank": "R",
+        "height": "4.25",
+        "length": 46,
+        "mat_score": -1.5,
+        "strat_score": "0",
+        "root_val": 10,
+        "root_score": 8.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 29.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.776046,
+          41.34916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11N",
+        "id": 431,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349202,
+        "longitude": -81.776193,
+        "pic_num": "2519, 2521",
+        "bank": "L",
+        "height": "4.5",
+        "length": 86,
+        "mat_score": -2,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.776193,
+          41.349202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12N",
+        "id": 432,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349365,
+        "longitude": -81.776255,
+        "pic_num": "2523, 2522",
+        "bank": "R",
+        "height": "4.75",
+        "length": 67,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.776255,
+          41.349365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1O",
+        "id": 433,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358318,
+        "longitude": -81.845185,
+        "pic_num": "2524, 2525",
+        "bank": "R",
+        "height": "2.5",
+        "length": 100,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 55,
+        "surf_score": 4,
+        "tot_score": 18.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.845185,
+          41.358318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2O",
+        "id": 434,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358277,
+        "longitude": -81.84491,
+        "pic_num": "2527, 2526",
+        "bank": "L",
+        "height": "3",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84491,
+          41.358277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3O",
+        "id": 435,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358204,
+        "longitude": -81.844869,
+        "pic_num": "2530, 2528",
+        "bank": "R",
+        "height": "4.25",
+        "length": 130,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.844869,
+          41.358204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4O",
+        "id": 436,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358163,
+        "longitude": -81.844688,
+        "pic_num": "2531, 2532, 2529",
+        "bank": "L",
+        "height": "5.5",
+        "length": 130,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.844688,
+          41.358163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5O",
+        "id": 437,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358066,
+        "longitude": -81.844566,
+        "pic_num": "2534, 2533",
+        "bank": "R",
+        "height": "4",
+        "length": 141,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.844566,
+          41.358066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6USO",
+        "id": 438,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35723,
+        "longitude": -81.842596,
+        "pic_num": "2537, 2536",
+        "bank": "L",
+        "height": "5",
+        "length": 90,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 23,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.842596,
+          41.35723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6DSO",
+        "id": 439,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357145,
+        "longitude": -81.842292,
+        "pic_num": "2537, 2536",
+        "bank": "L",
+        "height": "5",
+        "length": 65,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 23,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.842292,
+          41.357145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7O",
+        "id": 440,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35726,
+        "longitude": -81.841789,
+        "pic_num": "2539, 2538",
+        "bank": "L",
+        "height": "5",
+        "length": 105,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.841789,
+          41.35726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8O",
+        "id": 441,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357351,
+        "longitude": -81.841192,
+        "pic_num": "2542, 2541, 2540",
+        "bank": "R",
+        "height": "5.5",
+        "length": 219,
+        "mat_score": 1,
+        "strat_score": 2,
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.841192,
+          41.357351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9O",
+        "id": 442,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357478,
+        "longitude": -81.840891,
+        "pic_num": "2544, 2543",
+        "bank": "L",
+        "height": "5.5",
+        "length": 95,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.840891,
+          41.357478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10O",
+        "id": 443,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357494,
+        "longitude": -81.840621,
+        "pic_num": "2546, 2545",
+        "bank": "L",
+        "height": "5.5/BF 3.5",
+        "length": 69,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 65,
+        "dens_scor": "3.25",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 75,
+        "surf_score": 2.5,
+        "tot_score": 13.25,
+        "rank": "low",
+        "marker-color": "#00C000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.840621,
+          41.357494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11O",
+        "id": 444,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357497,
+        "longitude": -81.840247,
+        "pic_num": "2548, 2547",
+        "bank": "R",
+        "height": "5.5",
+        "length": 59,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 22.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.840247,
+          41.357497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12O",
+        "id": 445,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357456,
+        "longitude": -81.839286,
+        "pic_num": "2551, 2550",
+        "bank": "R",
+        "height": "3.5 (BF2.5)",
+        "length": 120,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 55,
+        "dens_scor": "4",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.839286,
+          41.357456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13O",
+        "id": 446,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357539,
+        "longitude": -81.83933,
+        "pic_num": "2553, 2552",
+        "bank": "L",
+        "height": "5.5",
+        "length": 66,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 25.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83933,
+          41.357539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1P",
+        "id": 447,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357807,
+        "longitude": -81.838852,
+        "pic_num": "2555, 2554",
+        "bank": "R",
+        "height": "5.5",
+        "length": 100,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838852,
+          41.357807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2P",
+        "id": 448,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357838,
+        "longitude": -81.838453,
+        "pic_num": "2558, 2557",
+        "bank": "R",
+        "height": "6",
+        "length": 41,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 25,
+        "root_score": 6.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 27,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838453,
+          41.357838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3P",
+        "id": 449,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357656,
+        "longitude": -81.838025,
+        "pic_num": "2560, 2559",
+        "bank": "L",
+        "height": "5.5",
+        "length": 102,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 26.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838025,
+          41.357656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4P",
+        "id": 450,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357433,
+        "longitude": -81.837741,
+        "pic_num": "2563, 2562",
+        "bank": "L",
+        "height": "4",
+        "length": 92,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.837741,
+          41.357433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5P",
+        "id": 451,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357303,
+        "longitude": -81.836953,
+        "pic_num": "2565, 2564",
+        "bank": "L",
+        "height": "4.5",
+        "length": 86,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 28.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.836953,
+          41.357303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6P",
+        "id": 452,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357211,
+        "longitude": -81.836629,
+        "pic_num": "2567, 2566",
+        "bank": "L",
+        "height": "5.5",
+        "length": 62,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 28,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.836629,
+          41.357211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7P",
+        "id": 453,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356652,
+        "longitude": -81.836518,
+        "pic_num": "2569, 2568",
+        "bank": "L",
+        "height": "4.5",
+        "length": 57,
+        "mat_score": 0,
+        "strat_score": 3,
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 28,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.836518,
+          41.356652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8P",
+        "id": 454,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356519,
+        "longitude": -81.836397,
+        "pic_num": "2571, 2570",
+        "bank": "L",
+        "height": "5",
+        "length": 34,
+        "mat_score": 1,
+        "strat_score": 1,
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 25.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.836397,
+          41.356519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9USP",
+        "id": 455,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356525,
+        "longitude": -81.8362,
+        "pic_num": "2574, 2572",
+        "bank": "L",
+        "height": "5",
+        "length": 64.333333,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8362,
+          41.356525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9MSP",
+        "id": 456,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356577,
+        "longitude": -81.836076,
+        "pic_num": "2574, 2572",
+        "bank": "L",
+        "height": "5",
+        "length": 64.333333,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.836076,
+          41.356577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9DSP",
+        "id": 457,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356648,
+        "longitude": -81.835927,
+        "pic_num": "2574, 2572",
+        "bank": "L",
+        "height": "5",
+        "length": 64.333333,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.835927,
+          41.356648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10P",
+        "id": 458,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356695,
+        "longitude": -81.83566,
+        "pic_num": "2577, 2576, 2575",
+        "bank": "R",
+        "height": "5.5",
+        "length": 48,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 29.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83566,
+          41.356695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11P",
+        "id": 459,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356802,
+        "longitude": -81.835536,
+        "pic_num": "2578, 2579",
+        "bank": "R",
+        "height": "5",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.835536,
+          41.356802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12P",
+        "id": 460,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356118,
+        "longitude": -81.834986,
+        "pic_num": "2581, 2580",
+        "bank": "L",
+        "height": "6",
+        "length": 72,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.834986,
+          41.356118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13P",
+        "id": 461,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35602,
+        "longitude": -81.834575,
+        "pic_num": "2583, 2582",
+        "bank": "L",
+        "height": "3.5",
+        "length": 95,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.834575,
+          41.35602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14P",
+        "id": 462,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355875,
+        "longitude": -81.834069,
+        "pic_num": "2585, 2584",
+        "bank": "L",
+        "height": "6.5",
+        "length": 35,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 32.5,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.834069,
+          41.355875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15P",
+        "id": 463,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355826,
+        "longitude": -81.833669,
+        "pic_num": "2587, 2586",
+        "bank": "R",
+        "height": "4.5",
+        "length": 43,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 10,
+        "root_score": 8.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 35,
+        "angle_scor": 2.75,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 27.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.833669,
+          41.355826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16P",
+        "id": 464,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355812,
+        "longitude": -81.833254,
+        "pic_num": "2589, 2588",
+        "bank": "L",
+        "height": "7",
+        "length": 81,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.833254,
+          41.355812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17US",
+        "id": 465,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356027,
+        "longitude": -81.832915,
+        "pic_num": "2591, 2590",
+        "bank": "L",
+        "height": "6",
+        "length": 17.333333,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.832915,
+          41.356027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17MS",
+        "id": 466,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355992,
+        "longitude": -81.832764,
+        "pic_num": "2591, 2590",
+        "bank": "L",
+        "height": "6",
+        "length": 17.333333,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.832764,
+          41.355992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17DS",
+        "id": 467,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355912,
+        "longitude": -81.832608,
+        "pic_num": "2591, 2590",
+        "bank": "L",
+        "height": "6",
+        "length": 17.333333,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.832608,
+          41.355912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "18P",
+        "id": 468,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355636,
+        "longitude": -81.83234,
+        "pic_num": "2593, 2592",
+        "bank": "L",
+        "height": "5.5",
+        "length": 76,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83234,
+          41.355636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "19P",
+        "id": 469,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355259,
+        "longitude": -81.831724,
+        "pic_num": "2595, 2594",
+        "bank": "R",
+        "height": "4.5",
+        "length": 116,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831724,
+          41.355259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "20P",
+        "id": 470,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354948,
+        "longitude": -81.831771,
+        "pic_num": "2598, 2597, 2596",
+        "bank": "L",
+        "height": "6",
+        "length": 116,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 24.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831771,
+          41.354948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1Q",
+        "id": 471,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353093,
+        "longitude": -81.830426,
+        "pic_num": "2616, 2615",
+        "bank": "L",
+        "height": "5",
+        "length": 84,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 27.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.830426,
+          41.353093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2Q",
+        "id": 472,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353051,
+        "longitude": -81.830454,
+        "pic_num": "2618, 2617",
+        "bank": "R",
+        "height": "5.5",
+        "length": 51,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.830454,
+          41.353051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3Q",
+        "id": 473,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353117,
+        "longitude": -81.830011,
+        "pic_num": "2620, 2619",
+        "bank": "R",
+        "height": "4.5",
+        "length": 67,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.830011,
+          41.353117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4Q",
+        "id": 474,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353172,
+        "longitude": -81.82983,
+        "pic_num": "2622, 2621",
+        "bank": "L",
+        "height": "5",
+        "length": 151,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 19.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82983,
+          41.353172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5Q",
+        "id": 475,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352995,
+        "longitude": -81.829086,
+        "pic_num": "2624, 2623",
+        "bank": "L",
+        "height": "6.5",
+        "length": 60,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 19.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.829086,
+          41.352995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6Q",
+        "id": 476,
+        "Location": "Baldwin Creek",
+        "latitude": 41.352994,
+        "longitude": -81.828832,
+        "pic_num": "2626, 2625",
+        "bank": "L",
+        "height": "5.5",
+        "length": 25.5,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828832,
+          41.352994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7Q",
+        "id": 477,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353122,
+        "longitude": -81.829843,
+        "pic_num": "2627",
+        "bank": "R",
+        "height": "5",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 23.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.829843,
+          41.353122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8Q",
+        "id": 478,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353267,
+        "longitude": -81.828673,
+        "pic_num": "2630, 2629",
+        "bank": "L",
+        "height": "3.5",
+        "length": 121,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828673,
+          41.353267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9Q",
+        "id": 479,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353315,
+        "longitude": -81.828447,
+        "pic_num": "2632, 2631",
+        "bank": "R",
+        "height": "4.5",
+        "length": 77,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 15.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828447,
+          41.353315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10US",
+        "id": 480,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353364,
+        "longitude": -81.828238,
+        "pic_num": "2633, 2634",
+        "bank": "R",
+        "height": "10+/bf5.5",
+        "length": 55,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828238,
+          41.353364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10DS",
+        "id": 481,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353386,
+        "longitude": -81.828087,
+        "pic_num": "2633, 2634",
+        "bank": "R",
+        "height": "10+/bf5.5",
+        "length": 25,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 25.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.828087,
+          41.353386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11Q",
+        "id": 482,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353303,
+        "longitude": -81.827837,
+        "pic_num": "2636, 2635",
+        "bank": "R",
+        "height": "5",
+        "length": 127,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.827837,
+          41.353303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1R",
+        "id": 483,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353638,
+        "longitude": -81.830485,
+        "pic_num": "2641, 2642",
+        "bank": "L",
+        "height": "4.5",
+        "length": 48,
+        "mat_score": 3,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.830485,
+          41.353638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2R",
+        "id": 484,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35399,
+        "longitude": -81.830764,
+        "pic_num": "2643, 2644",
+        "bank": "R",
+        "height": "6.5",
+        "length": 249,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 20.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.830764,
+          41.35399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3R",
+        "id": 485,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353385,
+        "longitude": -81.831064,
+        "pic_num": "2646, 2647",
+        "bank": "L",
+        "height": "5.5",
+        "length": 78,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 25.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831064,
+          41.353385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4R",
+        "id": 486,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353702,
+        "longitude": -81.831423,
+        "pic_num": "2648",
+        "bank": "R",
+        "height": "5",
+        "length": 86,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831423,
+          41.353702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5R",
+        "id": 487,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353773,
+        "longitude": -81.831582,
+        "pic_num": "2650, 2651",
+        "bank": "L",
+        "height": "5",
+        "length": 85,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831582,
+          41.353773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6R",
+        "id": 488,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354171,
+        "longitude": -81.83118,
+        "pic_num": "2653, 2654",
+        "bank": "R",
+        "height": "6",
+        "length": 72,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 20,
+        "root_score": 7,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 28.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83118,
+          41.354171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7R",
+        "id": 489,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354247,
+        "longitude": -81.83146,
+        "pic_num": "2655, 2656",
+        "bank": "L",
+        "height": "5",
+        "length": 52,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 55,
+        "surf_score": 4,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83146,
+          41.354247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8R",
+        "id": 490,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354441,
+        "longitude": -81.831411,
+        "pic_num": "2657, 2658",
+        "bank": "L",
+        "height": "5",
+        "length": 44,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 23.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831411,
+          41.354441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9R",
+        "id": 491,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354651,
+        "longitude": -81.831189,
+        "pic_num": "2659",
+        "bank": "R",
+        "height": "5.5",
+        "length": 20,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 26.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.831189,
+          41.354651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1S",
+        "id": 492,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350119,
+        "longitude": -81.823383,
+        "pic_num": "2682, 2681",
+        "bank": "L",
+        "height": "4",
+        "length": 47,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 70,
+        "root_score": 3,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 26.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823383,
+          41.350119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2S",
+        "id": 493,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349979,
+        "longitude": -81.823034,
+        "pic_num": "2684, 2683",
+        "bank": "L",
+        "height": "5",
+        "length": 129,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 22.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.823034,
+          41.349979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3S",
+        "id": 494,
+        "Location": "Baldwin Creek",
+        "latitude": 41.349756,
+        "longitude": -81.822575,
+        "pic_num": "2686, 2685",
+        "bank": "L",
+        "height": "3.5",
+        "length": 210,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.822575,
+          41.349756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4S",
+        "id": 495,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350029,
+        "longitude": -81.821714,
+        "pic_num": "2688, 2687",
+        "bank": "L",
+        "height": "4",
+        "length": 212,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 17,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.821714,
+          41.350029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5S",
+        "id": 496,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350058,
+        "longitude": -81.82165,
+        "pic_num": "2690, 2689",
+        "bank": "R",
+        "height": "4.5",
+        "length": 53,
+        "mat_score": 2.5,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82165,
+          41.350058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6USS",
+        "id": 497,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350294,
+        "longitude": -81.821516,
+        "pic_num": "2692, 2691",
+        "bank": "R",
+        "height": "4.5",
+        "length": 61,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.821516,
+          41.350294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6DSS",
+        "id": 498,
+        "Location": "Baldwin Creek",
+        "latitude": 41.350449,
+        "longitude": -81.82139,
+        "pic_num": "2692, 2691",
+        "bank": "R",
+        "height": "4.5",
+        "length": 61,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82139,
+          41.350449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1T",
+        "id": 499,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351171,
+        "longitude": -81.820257,
+        "pic_num": "2694, 2693",
+        "bank": "L",
+        "height": "6.5",
+        "length": 50,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.820257,
+          41.351171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2T",
+        "id": 500,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351222,
+        "longitude": -81.820174,
+        "pic_num": "2696, 2695",
+        "bank": "R",
+        "height": "10/BF 6.5",
+        "length": 84,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 20.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.820174,
+          41.351222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3T",
+        "id": 501,
+        "Location": "Baldwin Creek",
+        "latitude": 41.351497,
+        "longitude": -81.820112,
+        "pic_num": "9646, 2697",
+        "bank": "L",
+        "height": "7.5",
+        "length": 102,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.820112,
+          41.351497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4T",
+        "id": 502,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353501,
+        "longitude": -81.817571,
+        "pic_num": "9648, 9647",
+        "bank": "R",
+        "height": "2.5",
+        "length": 79,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 24.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817571,
+          41.353501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5T",
+        "id": 503,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353886,
+        "longitude": -81.817334,
+        "pic_num": "9650, 9651",
+        "bank": "R",
+        "height": "5",
+        "length": 54,
+        "mat_score": 1,
+        "strat_score": 1,
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 24.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817334,
+          41.353886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6T",
+        "id": 504,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353903,
+        "longitude": -81.817389,
+        "pic_num": "9652, 9653",
+        "bank": "L",
+        "height": "1",
+        "length": 93.5,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 28.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817389,
+          41.353903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7T",
+        "id": 505,
+        "Location": "Baldwin Creek",
+        "latitude": 41.353955,
+        "longitude": -81.817267,
+        "pic_num": "9656, 9655",
+        "bank": "R",
+        "height": "4.5",
+        "length": 65,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817267,
+          41.353955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8T",
+        "id": 506,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35423,
+        "longitude": -81.817113,
+        "pic_num": "9661, 9660",
+        "bank": "R",
+        "height": "4",
+        "length": 55,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 18,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817113,
+          41.35423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9T",
+        "id": 507,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354397,
+        "longitude": -81.817046,
+        "pic_num": "9663, 9664",
+        "bank": "R",
+        "height": "6",
+        "length": 89,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 21.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.817046,
+          41.354397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10T",
+        "id": 508,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354762,
+        "longitude": -81.816922,
+        "pic_num": "9666, 9665",
+        "bank": "R",
+        "height": "7.5",
+        "length": 115,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 30,
+        "root_score": 6,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 28,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816922,
+          41.354762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11T",
+        "id": 509,
+        "Location": "Baldwin Creek",
+        "latitude": 41.354974,
+        "longitude": -81.816811,
+        "pic_num": "9668, 9667",
+        "bank": "L",
+        "height": "3.5",
+        "length": 51,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 30,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816811,
+          41.354974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12T",
+        "id": 510,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355128,
+        "longitude": -81.816669,
+        "pic_num": "9670, 9669",
+        "bank": "L",
+        "height": "20+/BF5.25",
+        "length": 242,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 32.5,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816669,
+          41.355128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13T",
+        "id": 511,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355216,
+        "longitude": -81.816551,
+        "pic_num": "9672, 9671",
+        "bank": "R",
+        "height": "4",
+        "length": 32,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 5,
+        "surf_score": 9.5,
+        "tot_score": 25.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816551,
+          41.355216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14T",
+        "id": 512,
+        "Location": "Baldwin Creek",
+        "latitude": 41.355563,
+        "longitude": -81.816514,
+        "pic_num": "9674, 9673",
+        "bank": "L",
+        "height": "5.5us/10ds.bf4",
+        "length": 136,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 29,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816514,
+          41.355563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15T",
+        "id": 513,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356058,
+        "longitude": -81.816642,
+        "pic_num": "9676, 9675",
+        "bank": "R",
+        "height": "3",
+        "length": 30,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 26,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816642,
+          41.356058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16T",
+        "id": 514,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356441,
+        "longitude": -81.816986,
+        "pic_num": "9677, 9678",
+        "bank": "R",
+        "height": "10/BF3.5",
+        "length": 115,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.816986,
+          41.356441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17T",
+        "id": 515,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356991,
+        "longitude": -81.815826,
+        "pic_num": "9680, 9679",
+        "bank": "L",
+        "height": "4",
+        "length": 45,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 26.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.815826,
+          41.356991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "18T",
+        "id": 516,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356596,
+        "longitude": -81.814902,
+        "pic_num": "9683, 9681, 9682",
+        "bank": "L",
+        "height": "25/BF6",
+        "length": 500,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 32.5,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.814902,
+          41.356596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "19T",
+        "id": 517,
+        "Location": "Baldwin Creek",
+        "latitude": 41.35639,
+        "longitude": -81.81431,
+        "pic_num": "9684, 9685",
+        "bank": "R",
+        "height": "1",
+        "length": 92,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 95,
+        "angle_scor": 8.25,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 22,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81431,
+          41.35639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "20T",
+        "id": 518,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356469,
+        "longitude": -81.813637,
+        "pic_num": "9687, 9686",
+        "bank": "L",
+        "height": "15/bf6",
+        "length": 217,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 30.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.813637,
+          41.356469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "21T",
+        "id": 519,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356542,
+        "longitude": -81.812991,
+        "pic_num": "9691, 9690, 9689",
+        "bank": "L",
+        "height": "15/bf6",
+        "length": 313,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 5,
+        "root_score": 9,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 29,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812991,
+          41.356542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "22T",
+        "id": 520,
+        "Location": "Baldwin Creek",
+        "latitude": 41.356924,
+        "longitude": -81.812667,
+        "pic_num": "9692, 9693",
+        "bank": "L",
+        "height": "20+/BF15",
+        "length": 35,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 22.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812667,
+          41.356924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "23T",
+        "id": 521,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357085,
+        "longitude": -81.812624,
+        "pic_num": "9695, 9694",
+        "bank": "L",
+        "height": "7.5",
+        "length": 51,
+        "mat_score": 0,
+        "strat_score": 1,
+        "root_val": 75,
+        "root_score": 2.75,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 22.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812624,
+          41.357085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "24T",
+        "id": 522,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357282,
+        "longitude": -81.812831,
+        "pic_num": "9697, 9696",
+        "bank": "L",
+        "height": "11",
+        "length": 86,
+        "mat_score": 0,
+        "strat_score": 3,
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 22.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812831,
+          41.357282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "25T",
+        "id": 523,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357502,
+        "longitude": -81.813206,
+        "pic_num": "9698, 2699, 2698",
+        "bank": "L",
+        "height": "7",
+        "length": 176,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 17.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.813206,
+          41.357502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "26T",
+        "id": 524,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357798,
+        "longitude": -81.813507,
+        "pic_num": "2700, 2701",
+        "bank": "L",
+        "height": "1.5",
+        "length": 123,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 16,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.813507,
+          41.357798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "27T",
+        "id": 525,
+        "Location": "Baldwin Creek",
+        "latitude": 41.357824,
+        "longitude": -81.81333,
+        "pic_num": "2703, 2702",
+        "bank": "R",
+        "height": "3",
+        "length": 49,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81333,
+          41.357824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "28T",
+        "id": 526,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358302,
+        "longitude": -81.812524,
+        "pic_num": "2704, 9699, 9700",
+        "bank": "L",
+        "height": "2",
+        "length": 137,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 25.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812524,
+          41.358302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "29T",
+        "id": 527,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358272,
+        "longitude": -81.812456,
+        "pic_num": "9702, 9701",
+        "bank": "R",
+        "height": "3",
+        "length": 39,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 21.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812456,
+          41.358272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "30T",
+        "id": 528,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358557,
+        "longitude": -81.812108,
+        "pic_num": "9704, 9703",
+        "bank": "L",
+        "height": "1",
+        "length": 50,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 100,
+        "root_score": 0,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 55,
+        "surf_score": 4,
+        "tot_score": 16.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.812108,
+          41.358557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "31T",
+        "id": 529,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358606,
+        "longitude": -81.811887,
+        "pic_num": "9707, 9706",
+        "bank": "R",
+        "height": "2.5",
+        "length": 171,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 25.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811887,
+          41.358606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "32T",
+        "id": 530,
+        "Location": "Baldwin Creek",
+        "latitude": 41.358812,
+        "longitude": -81.811723,
+        "pic_num": "9709, 9708",
+        "bank": "L",
+        "height": "1.5",
+        "length": 55,
+        "mat_score": 0,
+        "strat_score": 1,
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 17.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811723,
+          41.358812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "33T",
+        "id": 531,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359035,
+        "longitude": -81.811513,
+        "pic_num": "9713, 9712",
+        "bank": "L",
+        "height": "3.5",
+        "length": 100,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 24,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811513,
+          41.359035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "34T",
+        "id": 532,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359249,
+        "longitude": -81.811187,
+        "pic_num": "9715, 9714",
+        "bank": "R",
+        "height": "2.5",
+        "length": 66,
+        "mat_score": 0,
+        "strat_score": 1,
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 23,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811187,
+          41.359249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "35T",
+        "id": 533,
+        "Location": "Baldwin Creek",
+        "latitude": 41.359471,
+        "longitude": -81.811038,
+        "pic_num": "9718, 9717",
+        "bank": "L",
+        "height": "3",
+        "length": 90,
+        "mat_score": 1,
+        "strat_score": 1,
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 40,
+        "surf_score": 5,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.811038,
+          41.359471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "1U",
+        "id": 534,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360415,
+        "longitude": -81.809906,
+        "pic_num": "2706, 2705",
+        "bank": "R",
+        "height": "20+/BF4",
+        "length": 115,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 33.25,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809906,
+          41.360415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "2U",
+        "id": 535,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360499,
+        "longitude": -81.809989,
+        "pic_num": "2708, 2707",
+        "bank": "L",
+        "height": "2",
+        "length": 167,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 55,
+        "root_score": 3.75,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 65,
+        "surf_score": 3.25,
+        "tot_score": 17.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809989,
+          41.360499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "3U",
+        "id": 536,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360722,
+        "longitude": -81.809676,
+        "pic_num": "2712, 2711, 2710",
+        "bank": "R",
+        "height": "3.5",
+        "length": 223,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809676,
+          41.360722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "4U",
+        "id": 537,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360824,
+        "longitude": -81.809708,
+        "pic_num": "2714, 2713",
+        "bank": "L",
+        "height": "2",
+        "length": 55.5,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 17.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809708,
+          41.360824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "5U",
+        "id": 538,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360917,
+        "longitude": -81.809435,
+        "pic_num": "2716, 2715",
+        "bank": "R",
+        "height": "2",
+        "length": 55,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 60,
+        "surf_score": 3.5,
+        "tot_score": 17.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809435,
+          41.360917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "6U",
+        "id": 539,
+        "Location": "Baldwin Creek",
+        "latitude": 41.360995,
+        "longitude": -81.809451,
+        "pic_num": "2718, 2717",
+        "bank": "L",
+        "height": "3",
+        "length": 96,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 26.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809451,
+          41.360995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "7U",
+        "id": 540,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361017,
+        "longitude": -81.809283,
+        "pic_num": "2720, 2719",
+        "bank": "R",
+        "height": "3",
+        "length": 36,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809283,
+          41.361017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "8U",
+        "id": 541,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361181,
+        "longitude": -81.809189,
+        "pic_num": "2722, 2721",
+        "bank": "R",
+        "height": "20+/BF3.5",
+        "length": 91,
+        "mat_score": 1.5,
+        "strat_score": "0",
+        "root_val": 0,
+        "root_score": 10,
+        "dens_val": 0,
+        "dens_scor": "10",
+        "angle_val": 45,
+        "angle_scor": 3.25,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 32.75,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809189,
+          41.361181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "9U",
+        "id": 542,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36102,
+        "longitude": -81.808186,
+        "pic_num": "2724, 2723",
+        "bank": "L",
+        "height": "3.5",
+        "length": 123,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 45,
+        "root_score": 4.25,
+        "dens_val": 20,
+        "dens_scor": "7",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 23.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.808186,
+          41.36102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "10U",
+        "id": 543,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361091,
+        "longitude": -81.807863,
+        "pic_num": "2726, 2725",
+        "bank": "L",
+        "height": "4.5",
+        "length": 97,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 35,
+        "angle_scor": 2.75,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 16,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.807863,
+          41.361091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "11U",
+        "id": 544,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361225,
+        "longitude": -81.807543,
+        "pic_num": "2728, 2727",
+        "bank": "L",
+        "height": "3.5",
+        "length": 158,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 19.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.807543,
+          41.361225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "12U",
+        "id": 545,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361323,
+        "longitude": -81.807365,
+        "pic_num": "2730, 2729",
+        "bank": "R",
+        "height": "4",
+        "length": 147,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 35,
+        "dens_scor": "5.5",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 20.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.807365,
+          41.361323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "13U",
+        "id": 546,
+        "Location": "Baldwin Creek",
+        "latitude": 41.361809,
+        "longitude": -81.807032,
+        "pic_num": "2732, 2731",
+        "bank": "R",
+        "height": "5",
+        "length": 42,
+        "mat_score": 1,
+        "strat_score": 1,
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 23.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.807032,
+          41.361809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "14U",
+        "id": 547,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36205,
+        "longitude": -81.806709,
+        "pic_num": "2734, 2733",
+        "bank": "L",
+        "height": "4",
+        "length": 47,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 22.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806709,
+          41.36205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "15U",
+        "id": 548,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362021,
+        "longitude": -81.806653,
+        "pic_num": "2736, 2735",
+        "bank": "R",
+        "height": "4",
+        "length": 40,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 20.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806653,
+          41.362021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "16U",
+        "id": 549,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362094,
+        "longitude": -81.806046,
+        "pic_num": "2738, 2737",
+        "bank": "L",
+        "height": "4",
+        "length": 91,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 23.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806046,
+          41.362094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "17U",
+        "id": 550,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362185,
+        "longitude": -81.805872,
+        "pic_num": "2742, 2741",
+        "bank": "R",
+        "height": "4",
+        "length": 37,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 24,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.805872,
+          41.362185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "18U",
+        "id": 551,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362511,
+        "longitude": -81.805309,
+        "pic_num": "2744, 2743",
+        "bank": "L",
+        "height": "4.5",
+        "length": 83,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 27.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.805309,
+          41.362511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "19U",
+        "id": 552,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362955,
+        "longitude": -81.8044,
+        "pic_num": "2749, 2745",
+        "bank": "R",
+        "height": "4",
+        "length": 269,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 50,
+        "angle_scor": 3.5,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 16,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8044,
+          41.362955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "20U",
+        "id": 553,
+        "Location": "Baldwin Creek",
+        "latitude": 41.362776,
+        "longitude": -81.804846,
+        "pic_num": "2751, 2750",
+        "bank": "L",
+        "height": "20+/bf3.5",
+        "length": 91,
+        "mat_score": 3,
+        "strat_score": 2,
+        "root_val": 40,
+        "root_score": 4.75,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 28.25,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804846,
+          41.362776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "21U",
+        "id": 554,
+        "Location": "Baldwin Creek",
+        "latitude": 41.36297,
+        "longitude": -81.804455,
+        "pic_num": "2753, 2752",
+        "bank": "L",
+        "height": "20+/bf3.5",
+        "length": 87,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 95,
+        "root_score": 1.5,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 50,
+        "surf_score": 4.25,
+        "tot_score": 19.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804455,
+          41.36297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "22U",
+        "id": 555,
+        "Location": "Baldwin Creek",
+        "latitude": 41.363085,
+        "longitude": -81.804216,
+        "pic_num": "2755, 2754",
+        "bank": "L",
+        "height": "3.5",
+        "length": 100,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 40,
+        "dens_scor": "5",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 19,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804216,
+          41.363085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "23U",
+        "id": 556,
+        "Location": "Baldwin Creek",
+        "latitude": 41.363166,
+        "longitude": -81.803947,
+        "pic_num": "2757, 2756",
+        "bank": "R",
+        "height": "4.5",
+        "length": 59,
+        "mat_score": 4,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 10,
+        "dens_scor": "8.5",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 20,
+        "surf_score": 7,
+        "tot_score": 27.75,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.803947,
+          41.363166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "24U",
+        "id": 557,
+        "Location": "Baldwin Creek",
+        "latitude": 41.363694,
+        "longitude": -81.803332,
+        "pic_num": "2759, 2758",
+        "bank": "L",
+        "height": "3.5",
+        "length": 87,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 90,
+        "root_score": 2,
+        "dens_val": 50,
+        "dens_scor": "4.25",
+        "angle_val": 80,
+        "angle_scor": 6,
+        "surf_val": 55,
+        "surf_score": 4,
+        "tot_score": 16.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.803332,
+          41.363694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "25U",
+        "id": 558,
+        "Location": "Baldwin Creek",
+        "latitude": 41.363878,
+        "longitude": -81.803001,
+        "pic_num": "2761, 2760",
+        "bank": "L",
+        "height": "4",
+        "length": 79,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 55,
+        "angle_scor": 3.75,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 18.5,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.803001,
+          41.363878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "26U",
+        "id": 559,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364079,
+        "longitude": -81.802548,
+        "pic_num": "2763, 2762",
+        "bank": "R",
+        "height": "3",
+        "length": 242,
+        "mat_score": 1,
+        "strat_score": 1,
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 65,
+        "angle_scor": 4.5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.802548,
+          41.364079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "27U",
+        "id": 560,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364498,
+        "longitude": -81.801953,
+        "pic_num": "2765, 2764",
+        "bank": "R",
+        "height": "5",
+        "length": 160,
+        "mat_score": 0,
+        "strat_score": 1,
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 15,
+        "dens_scor": "8",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 23,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.801953,
+          41.364498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "28U",
+        "id": 561,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364633,
+        "longitude": -81.801843,
+        "pic_num": "2767, 2766",
+        "bank": "L",
+        "height": "3",
+        "length": 91,
+        "mat_score": 0,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 40,
+        "angle_scor": 3,
+        "surf_val": 30,
+        "surf_score": 6,
+        "tot_score": 17.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.801843,
+          41.364633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "29U",
+        "id": 562,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364836,
+        "longitude": -81.800935,
+        "pic_num": "2769, 2768",
+        "bank": "L",
+        "height": "5.5",
+        "length": 81,
+        "mat_score": 2,
+        "strat_score": 1,
+        "root_val": 15,
+        "root_score": 7.75,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 15,
+        "surf_score": 8,
+        "tot_score": 35.75,
+        "rank": "very high",
+        "marker-color": "#FF0000",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.800935,
+          41.364836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "30U",
+        "id": 563,
+        "Location": "Baldwin Creek",
+        "latitude": 41.364899,
+        "longitude": -81.800662,
+        "pic_num": "2771, 2770",
+        "bank": "R",
+        "height": "5",
+        "length": 77,
+        "mat_score": 0,
+        "strat_score": 2,
+        "root_val": 60,
+        "root_score": 3.5,
+        "dens_val": 30,
+        "dens_scor": "5.75",
+        "angle_val": 85,
+        "angle_scor": 7,
+        "surf_val": 45,
+        "surf_score": 4.5,
+        "tot_score": 22.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.800662,
+          41.364899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "31U",
+        "id": 564,
+        "Location": "Baldwin Creek",
+        "latitude": 41.365094,
+        "longitude": -81.800197,
+        "pic_num": "2773, 2772",
+        "bank": "L",
+        "height": "5",
+        "length": 26,
+        "mat_score": 2,
+        "strat_score": "0",
+        "root_val": 65,
+        "root_score": 3.25,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 60,
+        "angle_scor": 4,
+        "surf_val": 25,
+        "surf_score": 6.5,
+        "tot_score": 21.75,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.800197,
+          41.365094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "32U",
+        "id": 565,
+        "Location": "Baldwin Creek",
+        "latitude": 41.365069,
+        "longitude": -81.800086,
+        "pic_num": "2775, 2774",
+        "bank": "R",
+        "height": "3.5",
+        "length": 44,
+        "mat_score": 0.5,
+        "strat_score": "0",
+        "root_val": 50,
+        "root_score": 4,
+        "dens_val": 5,
+        "dens_scor": "9",
+        "angle_val": 90,
+        "angle_scor": 8,
+        "surf_val": 10,
+        "surf_score": 9,
+        "tot_score": 30.5,
+        "rank": "high",
+        "marker-color": "#FAAD12",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.800086,
+          41.365069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "33U",
+        "id": 566,
+        "Location": "Baldwin Creek",
+        "latitude": 41.365136,
+        "longitude": -81.799868,
+        "pic_num": "2778, 2776",
+        "bank": "R",
+        "height": "3",
+        "length": 53,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 85,
+        "root_score": 2.25,
+        "dens_val": 45,
+        "dens_scor": "4.5",
+        "angle_val": 75,
+        "angle_scor": 5.5,
+        "surf_val": 55,
+        "surf_score": 4,
+        "tot_score": 17.25,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.799868,
+          41.365136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bank_num": "34U",
+        "id": 567,
+        "Location": "Baldwin Creek",
+        "latitude": 41.365263,
+        "longitude": -81.799764,
+        "pic_num": "2780, 2779",
+        "bank": "L",
+        "height": "6",
+        "length": 74,
+        "mat_score": 1,
+        "strat_score": "0",
+        "root_val": 80,
+        "root_score": 2.5,
+        "dens_val": 25,
+        "dens_scor": "6",
+        "angle_val": 70,
+        "angle_scor": 5,
+        "surf_val": 35,
+        "surf_score": 5.5,
+        "tot_score": 20,
+        "rank": "moderate",
+        "marker-color": "#FFFF00",
+        "marker-size": "small",
+        "images": [['images/not_available.png']]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.799764,
+          41.365263
         ]
       }
     }
@@ -10343,9 +20459,9 @@ var geoJson = {
 										'<tr class="odd_tr">' + '<td>' + "Bank Height (ft)"  + '</td>' + '<td>' + feature.properties.height  + '</td>' + '</tr>' +
 										'<tr>' + '<td>' + "Bank Length (ft)"  + '</td>' + '<td>' + feature.properties.length  + '</td>' + '</tr>' +
 										'<tr class="odd_tr">' + '<td>' + "Materials Score"  + '</td>' + '<td>' + feature.properties.mat_score  + '</td>' + '</tr>' +
-										'<tr>' + '<td>' + "Stratification Score"  + '</td>' + '<td>' + feature.properties.strat_scor  + '</td>' + '</tr>' +
+										'<tr>' + '<td>' + "Stratification Score"  + '</td>' + '<td>' + feature.properties.strat_score  + '</td>' + '</tr>' +
 										'<tr class="odd_tr">' + '<td>' + "Root Score"  + '</td>' + '<td>' + feature.properties.root_score  + '</td>' + '<td>' + feature.properties.root_val  + '</td>' + '</tr>' +
-										'<tr>' + '<td>' + "Density Score"  + '</td>' + '<td>' + feature.properties.dens_score  + '</td>' + '<td>' + feature.properties.dens_val  + '</td>' + '</tr>' +
+										'<tr>' + '<td>' + "Density Score"  + '</td>' + '<td>' + feature.properties.dens_scor  + '</td>' + '<td>' + feature.properties.dens_val  + '</td>' + '</tr>' +
 										'<tr class="odd_tr">' + '<td>' + "Angle Score"  + '</td>' + '<td>' + feature.properties.angle_scor  + '</td>' + '<td>' + feature.properties.angle_val + '</td>' + '</tr>' +
 										'<tr>' + '<td>' + "Surface Score"  + '</td>' + '<td>' + feature.properties.surf_score  + '</td>' + '<td>' + feature.properties.surf_val  + '</td>' + '</tr>' +
 									'</table>' +
@@ -10405,7 +20521,7 @@ var imagery = L.tileLayer('http://a.tiles.mapbox.com/v3/cminvasiveplants.map-7cf
 });
 
 // BEHI line data hosted as a mapbox layer created in TileMill
-var behi = L.tileLayer('http://a.tiles.mapbox.com/v3/cleveland-metroparks.jl36fgk8/{z}/{x}/{y}.jpg', {
+var behi = L.tileLayer('http://a.tiles.mapbox.com/v3/cleveland-metroparks.jn9f4mlk/{z}/{x}/{y}.jpg', {
 	minZoom: 10,	
     maxZoom: 18
 }).addTo(map);

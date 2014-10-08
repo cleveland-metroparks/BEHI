@@ -46,7 +46,7 @@
 	  <!-- the javascript in the href allows the links to open the DIVs; the rest of the code is found in behi.js line 143 -->
 		 <li><a href="javascript:tabSwitch_2(1, 8, 'tab_', 'content_');" id="tab_1" data-position="41.3902, -81.6682", zoom-level='11'>2014 BEHI Totals</a></li>
 		 <li><a href="javascript:tabSwitch_2(2, 8, 'tab_', 'content_');" id="tab_2"><span>Score-Value Charts</span></a></li>
-		 <li><a href="javascript:tabSwitch_2(3, 8, 'tab_', 'content_');" id="tab_3" data-position='41.3532,-81.8281', zoom-level='15'>Baldwin Creek</a></li>
+		 <li><a href="javascript:tabSwitch_2(3, 8, 'tab_', 'content_');" id="tab_3" data-position='41.3532,-81.8205', zoom-level='13'>Baldwin Creek</a></li>
 		 <li><a href="javascript:tabSwitch_2(4, 8, 'tab_', 'content_');" id="tab_4" data-position='41.5039,-81.494', zoom-level='17'>Euclid Creek</a></li>
          <li><a href="javascript:tabSwitch_2(5, 8, 'tab_', 'content_');" id="tab_5" data-position='41.3776,-81.5743', zoom-level='17'>Hemlock Creek</a></li>
 		 <li><a href="javascript:tabSwitch_2(6, 8, 'tab_', 'content_');" id="tab_6" data-position='41.2128,-81.7195', zoom-level='16'>Johnson's Creek</a></li>
@@ -129,12 +129,13 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Banks Assessed');
 					data.addRows([
+						['Baldwin Creek', 60806.84, 282],
 						['Euclid Creek (Acacia)', 7358.27, 57],
 						['Hemlock Creek', 6062.84, 26],
 						["Johnson's Creek", 13111.19, 88],
 						['Mirror Creek', 2336.01, 34],
 						['Strawberry Creek', 9046.75, 81],
-						['Total', 37915.06, 286]
+						['Total', 98721.9, 567]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_totals'));
@@ -156,26 +157,30 @@
 								data.addColumn('number', 'Length');
 								data.addColumn('number', 'LengthMax');
 
-								data.addRows(5);
-								data.setValue(0, 0, 'Euclid Creek');
-								data.setValue(0, 1, 7358.27);
-								data.setValue(0, 2, 0);
-
-								data.setValue(1, 0, 'Hemlock Creek');
-								data.setValue(1, 1, 6062.84);
+								data.addRows(6);
+								data.setValue(0, 0, 'Baldwin Creek');
+								data.setValue(0, 1, 60806.84);
+								data.setValue(0, 2, 0);								
+								
+								data.setValue(1, 0, 'Euclid Creek');
+								data.setValue(1, 1, 7358.27);
 								data.setValue(1, 2, 0);
 
-								data.setValue(2, 0, "Johnson's Creek");
-								data.setValue(2, 1, 13111.19);
+								data.setValue(2, 0, 'Hemlock Creek');
+								data.setValue(2, 1, 6062.84);
 								data.setValue(2, 2, 0);
 
-								data.setValue(3, 0, 'Mirror Creek');
-								data.setValue(3, 1, 2336.01);
+								data.setValue(3, 0, "Johnson's Creek");
+								data.setValue(3, 1, 13111.19);
 								data.setValue(3, 2, 0);
 
-								data.setValue(4, 0, 'Strawberry Creek');
-								data.setValue(4, 1, 9046.75);
+								data.setValue(4, 0, 'Mirror Creek');
+								data.setValue(4, 1, 2336.01);
 								data.setValue(4, 2, 0);
+
+								data.setValue(5, 0, 'Strawberry Creek');
+								data.setValue(5, 1, 9046.75);
+								data.setValue(5, 2, 0);
 
 								/*data.setValue(5, 0, 'Snowville');
 								data.setValue(5, 1, 19977.46);
@@ -213,11 +218,11 @@
         			var data = google.visualization.arrayToDataTable([
           				['Rank', 'Length'],
           				['Extreme', 568.6],
-          				['Very High', 1651.49],
-          				['High', 8110.32],
-          				['Moderate', 5920.35],
-          				['Low', 1101.25],
-          				['Rank Not Needed', 20563.05],
+          				['Very High', 3270.65],
+          				['High', 15265.45],
+          				['Moderate', 14664.67],
+          				['Low', 1180.01],
+          				['Rank Not Needed', 63772.52],
         			]);
 
         			var options = {
@@ -243,9 +248,9 @@
 
 	<div id="content_3" class="content">
 		<h1>Baldwin Creek</h1>
-		<center><h2>Coming soon...</h2></center>
+
 		
-		<!--<table class="total_table">
+		<table class="total_table">
 			<tr><td>Total Length Assessed</td><td class="length_column">12,264.26 ft</td></tr>
 		</table>
 		
@@ -260,12 +265,12 @@
 					data.addColumn('number', 'Length (ft)');
 					data.addColumn('number', 'Percent (%)');
 					data.addRows([
-						['Extreme', 29.53, {v: 0.2, f: '0.2%'}],
-						['Very High', 0, {v: 0.0, f: '0.0%'}],
-						['High', 22.78, {v: 0.2, f: '0.2%'}],
-						['Moderate', 1163.79, {v: 9.5, f: '9.5%'}],
-						['Low', 294.16, {v: 2.4, f: '2.4%'}],
-						['Rank Not Needed', 10754.26, {v: 87.7, f: '87.7%'}]
+						['Extreme', 0, {v: 0.0, f: '0.0%'}],
+						['Very High', 1619.16, {v: 2.7, f: '2.7%'}],
+						['High', 7155.13, {v: 11.8, f: '11.8%'}],
+						['Moderate', 8744.32, {v: 14.4, f: '14.4%'}],
+						['Low', 78.76, {v: 0.1, f: '0.1%'}],
+						['Rank Not Needed', 43209.47, {v: 71.1, f: '71.1%'}]
 					]);
 
 					var table = new google.visualization.Table(document.getElementById('table_abram'));
@@ -281,20 +286,20 @@
       				function drawChart() {
         			var data = google.visualization.arrayToDataTable([
           				['Rank', 'Length'],
-          				['Extreme', 29.53],
-          				['Very High', 0],
-          				['High', 22.78],
-          				['Moderate', 1163.79],
-          				['Low', 294.16],
-          				['Rank Not Needed', 10754.26],
+          				['Extreme', 0],
+          				['Very High', 1619.16],
+          				['High', 7155.13],
+          				['Moderate', 8744.32],
+          				['Low', 278.76],
+          				['Rank Not Needed', 43209.47],
         			]);
 
         			var options = {
           			chartArea: {left: '20px', right: '20px', width: '90%', height: '90%'},
           			pieSliceText: 'none',
-          				slices: {  0: {offset: 0.3, color: '#5D150F'},
+          				slices: {  0: {offset: 0.0, color: '#5D150F'},
                      		 1: {offset: 0.0, color: '#FE0000'},
-                    		 2: {offset: 0.2, color: '#F9AC10'},
+                    		 2: {offset: 0.0, color: '#F9AC10'},
                     		 3: {offset: 0.0, color: '#FEFE00'},
                     		 4: {offset: 0.0, color: '#00BE00'},
                     		 5: {offset: 0.0, color: '#C4C4C4'},
@@ -304,7 +309,9 @@
         			var chart = new google.visualization.PieChart(document.getElementById('piechart_abram'));
         			chart.draw(data, options);
       				}
-   			</script>-->
+   			</script>
+			
+			<center><p id="baldwin-credit">Data and Photos for Baldwin Creek collected by <a href="http://www.cuyahogaswcd.org/" target="_blank">Cuyahoga Soil &amp; Water Conservation District</a></p></center>
 	</div>
 	
 	<div id="content_4" class="content">
